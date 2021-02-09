@@ -1,0 +1,824 @@
+index,Apartment,Apartment URL,Sq Feet,Sq Feet Clean,Rent,Rent Simple,Bedrooms,Deposit,Available
+0,AdMo Heights,https://www.apartments.com/admo-heights-washington-dc/v4m2kwf,705 Sq Ft,705,"$1,764 - 1,848",1764 ,"('1 ', ' bedroom')",$0,Available Now
+1,AdMo Heights,https://www.apartments.com/admo-heights-washington-dc/v4m2kwf,813 Sq Ft,813,"$2,058",2058,"('1 ', ' bedroom')",$0,Available Now
+4,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,732 Sq Ft,732,"$2,114",2114,"('1 ', ' bedroom')",$100,Available Now
+6,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,708 Sq Ft,708,"$2,079 - 2,395",2079 ,"('1 ', ' bedroom')",$100,Feb 20
+7,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,708 Sq Ft,708,"$2,255",2255,"('1 ', ' bedroom')",$100,Mar 13
+8,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,708 Sq Ft,708,"$2,234",2234,"('1 ', ' bedroom')",$100,Mar 20
+9,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,708 Sq Ft,708,"$2,079",2079,"('1 ', ' bedroom')",$100,Mar 27
+10,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,708 Sq Ft,708,"$2,185",2185,"('1 ', ' bedroom')",$100,Mar 27
+11,View 14,https://www.apartments.com/view-14-washington-dc/mdpd2hl,708 Sq Ft,708,"$2,289",2289,"('1 ', ' bedroom')",$100,Mar 27
+20,Warder Mansion,https://www.apartments.com/warder-mansion-washington-dc/5whp04m,788 Sq Ft,788,"$2,142 - 2,987",2142 ,"('1 ', ' bedroom')",$0,Available Now
+21,Warder Mansion,https://www.apartments.com/warder-mansion-washington-dc/5whp04m,733 Sq Ft,733,"$2,242 - 3,113",2242 ,"('1 ', ' bedroom')",$0,Available Now
+24,Highland Park at Columbia Heights Metro,https://www.apartments.com/highland-park-at-columbia-heights-metro-washington-dc/kprf84b,752 Sq Ft,752,"$1,990 - 2,090",1990 ,"('1 ', ' bedroom')",$0,Available Now
+26,The Woodner,https://www.apartments.com/the-woodner-washington-dc/bvr7rf8,875 Sq Ft,875,"$1,799",1799,"('1 ', ' bedroom')",$900,Available Soon
+27,The Woodner,https://www.apartments.com/the-woodner-washington-dc/bvr7rf8,750 Sq Ft,750,"$2,029",2029,"('2 ', ' bedroom')",$0,Available Soon
+28,The Woodner,https://www.apartments.com/the-woodner-washington-dc/bvr7rf8,"1,000 Sq Ft",1000,"$2,229",2229,"('2 ', ' bedroom')",$0,Available Soon
+32,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,738 Sq Ft,738,"$1,893 - 1,962",1893 ,"('1 ', ' bedroom')",$500,Available Now
+33,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,738 Sq Ft,738,"$1,893 - 1,962",1893 ,"('1 ', ' bedroom')",$0,Available Now
+34,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,737 Sq Ft,737,"$1,911 - 1,980",1911 ,"('1 ', ' bedroom')",$500,Available Now
+35,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,737 Sq Ft,737,"$1,911 - 1,980",1911 ,"('1 ', ' bedroom')",$0,Available Now
+36,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,711 Sq Ft,711,"$2,005 - 2,074",2005 ,"('1 ', ' bedroom')",$500,Feb 10
+37,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,711 Sq Ft,711,"$2,005 - 2,074",2005 ,"('1 ', ' bedroom')",$0,Feb 10
+38,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,730 Sq Ft,730,"$2,292 - 2,361",2292 ,"('1 ', ' bedroom')",$500,Mar 11
+39,The Shay,https://www.apartments.com/the-shay-washington-dc/lqsqmxd,730 Sq Ft,730,"$2,292 - 2,361",2292 ,"('1 ', ' bedroom')",$0,Mar 11
+48,Calvert Woodley,https://www.apartments.com/calvert-woodley-washington-dc/jczwcd6,800 Sq Ft,800,"$1,894 - 2,053",1894 ,"('1 ', ' bedroom')",$0,Available Now
+49,Calvert Woodley,https://www.apartments.com/calvert-woodley-washington-dc/jczwcd6,800 Sq Ft,800,"$2,053",2053,"('1 ', ' bedroom')",$0,Available Now
+50,Calvert Woodley,https://www.apartments.com/calvert-woodley-washington-dc/jczwcd6,800 Sq Ft,800,"$2,193",2193,"('1 ', ' bedroom')",$0,Available Now
+52,Calvert Woodley,https://www.apartments.com/calvert-woodley-washington-dc/jczwcd6,800 Sq Ft,800,"$1,902",1902,"('1 ', ' bedroom')",$0,Feb 8
+54,Calvert Woodley,https://www.apartments.com/calvert-woodley-washington-dc/jczwcd6,800 Sq Ft,800,"$1,894",1894,"('1 ', ' bedroom')",$0,Feb 12
+55,Calvert Woodley,https://www.apartments.com/calvert-woodley-washington-dc/jczwcd6,800 Sq Ft,800,"$2,015",2015,"('1 ', ' bedroom')",$0,Feb 18
+64,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,779 Sq Ft,779,"$1,736",1736,"('1 ', ' bedroom')",$500,Available Now
+65,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,706 Sq Ft,706,"$1,922",1922,"('1 ', ' bedroom')",$500,Available Now
+67,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,712 Sq Ft,712,"$2,001",2001,"('1 ', ' bedroom')",$500,Available Now
+68,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,844 Sq Ft,844,"$2,006 - 2,031",2006 ,"('1 ', ' bedroom')",$500,Available Now
+69,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,844 Sq Ft,844,"$2,031",2031,"('1 ', ' bedroom')",$500,Available Now
+70,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,712 Sq Ft,712,"$1,997",1997,"('1 ', ' bedroom')",$500,Feb 10
+71,Highview & Castle Manor,https://www.apartments.com/highview-castle-manor-washington-dc/m5xtd7h,844 Sq Ft,844,"$2,006",2006,"('1 ', ' bedroom')",$500,Feb 10
+80,Park Place at Petworth Metro,https://www.apartments.com/park-place-at-petworth-metro-washington-dc/10h4n76,770 Sq Ft,770,"$1,604 - 3,061",1604 ,"('1 ', ' bedroom')",$0,Available Now
+82,Park Place at Petworth Metro,https://www.apartments.com/park-place-at-petworth-metro-washington-dc/10h4n76,746 Sq Ft,746,"$1,641 - 3,019",1641 ,"('1 ', ' bedroom')",$0,Available Now
+88,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,700 - 723 Sq Ft,700723,"$1,848 - 2,298",1848 ,"('1 ', ' bedroom')",$500,Available Now
+89,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,700 - 723 Sq Ft,700723,"$1,987",1987,"('1 ', ' bedroom')",$0,Available Now
+90,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,762 - 818 Sq Ft,762818,"$1,848 - 2,664",1848 ,"('1 ', ' bedroom')",$500,Available Now
+91,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,762 - 818 Sq Ft,762818,"$1,926",1926,"('1 ', ' bedroom')",$0,Available Now
+92,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,762 - 818 Sq Ft,762818,"$2,048",2048,"('1 ', ' bedroom')",$0,Available Now
+93,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,707 Sq Ft,707,"$1,852 - 2,523",1852 ,"('1 ', ' bedroom')",$500,Available Now
+94,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,707 Sq Ft,707,"$1,852",1852,"('1 ', ' bedroom')",$0,Available Now
+95,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,707 Sq Ft,707,"$1,945",1945,"('1 ', ' bedroom')",$0,Available Now
+96,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,"1,072 Sq Ft",1072,"$1,860 - 2,698",1860 ,"('2 ', ' bedroom')",$500,Available Now
+97,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,"1,072 Sq Ft",1072,"$1,860",1860,"('2 ', ' bedroom')",$0,Available Now
+98,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,"1,072 Sq Ft",1072,"$1,945",1945,"('2 ', ' bedroom')",$0,Available Now
+100,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,845 Sq Ft,845,"$1,970 - 2,944",1970 ,"('2 ', ' bedroom')",$500,Available Now
+101,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,845 Sq Ft,845,"$1,970",1970,"('2 ', ' bedroom')",$0,Available Now
+102,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,700 - 723 Sq Ft,700723,"$1,848",1848,"('1 ', ' bedroom')",$0,Mar 7
+103,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,700 - 723 Sq Ft,700723,"$1,848",1848,"('1 ', ' bedroom')",$0,Mar 10
+104,Harvard Village,https://www.apartments.com/harvard-village-washington-dc/evrj2lq,762 - 818 Sq Ft,762818,"$1,848",1848,"('1 ', ' bedroom')",$0,Mar 10
+122,Park Triangle,https://www.apartments.com/park-triangle-washington-dc/lrxd40f,"1,091 - 1,112 Sq Ft",10911112,"$1,935 - 2,715",1935 ,"('1 ', ' bedroom')",$0,Available Now
+124,Park Triangle,https://www.apartments.com/park-triangle-washington-dc/lrxd40f,855 Sq Ft,855,"$1,925 - 2,600",1925 ,"('1 ', ' bedroom')",$0,Feb 12
+130,Park Ellison,https://www.apartments.com/park-ellison-washington-dc/5dvr6lm,855 Sq Ft,855,"$1,920",1920,"('1 ', ' bedroom')",$0,Available Now
+131,Park Ellison,https://www.apartments.com/park-ellison-washington-dc/5dvr6lm,800 - 825 Sq Ft,800825,"$2,250 - 2,350",2250 ,"('1 ', ' bedroom')",$0,Available Now
+134,President Madison,https://www.apartments.com/president-madison-washington-dc/k95fs1c,701 Sq Ft,701,"$1,971",1971,"('1 ', ' bedroom')",$500,Available Now
+138,7th Flats,https://www.apartments.com/7th-flats-washington-dc/lj6p6kd,825 Sq Ft,825,"$2,058 - 2,597",2058 ,"('1 ', ' bedroom')",$250,Available Now
+139,7th Flats,https://www.apartments.com/7th-flats-washington-dc/lj6p6kd,964 Sq Ft,964,"$2,123 - 2,679",2123 ,"('1 ', ' bedroom')",$250,Available Now
+140,7th Flats,https://www.apartments.com/7th-flats-washington-dc/lj6p6kd,800 Sq Ft,800,"$1,858 - 2,346",1858 ,"('1 ', ' bedroom')",$250,Feb 9
+144,Paramount,https://www.apartments.com/paramount-washington-dc/4szpm7l,835 Sq Ft,835,"$1,773",1773,"('1 ', ' bedroom')",$500,Feb 7
+146,Paramount,https://www.apartments.com/paramount-washington-dc/4szpm7l,804 Sq Ft,804,"$2,049",2049,"('2 ', ' bedroom')",$500,Available Now
+152,Fitzgerald,https://www.apartments.com/fitzgerald-washington-dc/22ss2m9,871 Sq Ft,871,"$1,800",1800,"('1 ', ' bedroom')",$0,Available Now
+154,Fitzgerald,https://www.apartments.com/fitzgerald-washington-dc/22ss2m9,725 Sq Ft,725,"$1,850",1850,"('1 ', ' bedroom')",$0,Available Now
+156,Fitzgerald,https://www.apartments.com/fitzgerald-washington-dc/22ss2m9,725 Sq Ft,725,"$1,875",1875,"('1 ', ' bedroom')",$0,Available Now
+158,Fitzgerald,https://www.apartments.com/fitzgerald-washington-dc/22ss2m9,730 Sq Ft,730,"$1,900",1900,"('1 ', ' bedroom')",$0,Available Now
+160,Fitzgerald,https://www.apartments.com/fitzgerald-washington-dc/22ss2m9,700 Sq Ft,700,"$1,900",1900,"('1 ', ' bedroom')",$0,Available Now
+162,Fitzgerald,https://www.apartments.com/fitzgerald-washington-dc/22ss2m9,725 Sq Ft,725,"$1,900",1900,"('1 ', ' bedroom')",$0,Apr 7
+176,The Citadel,https://www.apartments.com/the-citadel-washington-dc/27tnfrb,717 Sq Ft,717,"$1,799 - 1,949",1799 ,"('1 ', ' bedroom')",$0,Available Now
+177,The Citadel,https://www.apartments.com/the-citadel-washington-dc/27tnfrb,717 Sq Ft,717,"$1,899",1899,"('1 ', ' bedroom')",$0,Available Now
+178,The Citadel,https://www.apartments.com/the-citadel-washington-dc/27tnfrb,717 Sq Ft,717,"$1,949",1949,"('1 ', ' bedroom')",$0,Available Now
+183,The Citadel,https://www.apartments.com/the-citadel-washington-dc/27tnfrb,707 Sq Ft,707,"$1,949",1949,"('1 ', ' bedroom')",$0,Available Now
+186,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,800 Sq Ft,800,"$1,669 - 1,900",1669 ,"('1 ', ' bedroom')",$0,Available Now
+187,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,800 Sq Ft,800,"$1,669",1669,"('1 ', ' bedroom')",$0,Available Now
+188,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,800 Sq Ft,800,"$1,699",1699,"('1 ', ' bedroom')",$0,Available Now
+191,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,800 Sq Ft,800,"$1,900",1900,"('1 ', ' bedroom')",$0,Available Now
+206,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$1,900 - 2,100",1900 ,"('1 ', ' bedroom')",$0,Available Now
+207,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$2,050",2050,"('1 ', ' bedroom')",$0,Available Now
+209,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$2,100",2100,"('1 ', ' bedroom')",$0,Available Now
+210,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$1,999",1999,"('1 ', ' bedroom')",$0,Available Now
+212,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,985 Sq Ft,985,"$2,199",2199,"('1 ', ' bedroom')",$0,Available Now
+224,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,800 Sq Ft,800,"$1,900",1900,"('1 ', ' bedroom')",$0,Feb 28
+226,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$1,900",1900,"('1 ', ' bedroom')",$0,Feb 28
+227,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$2,050",2050,"('1 ', ' bedroom')",$0,Feb 28
+228,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,850 Sq Ft,850,"$1,999",1999,"('1 ', ' bedroom')",$0,Feb 28
+229,Dorchester House,https://www.apartments.com/dorchester-house-washington-dc/dq5n2zj,985 Sq Ft,985,"$2,199",2199,"('1 ', ' bedroom')",$0,Feb 28
+274,Dorchester West Apartments,https://www.apartments.com/dorchester-west-apartments-washington-dc/2p6wgy8,730 Sq Ft,730,"$1,950",1950,"('1 ', ' bedroom')",$0,Available Now
+276,1630 Park,https://www.apartments.com/1630-park-washington-dc/h5018z3,707 - 731 Sq Ft,707731,"$1,897 - 1,972",1897 ,"('1 ', ' bedroom')",$500,Available Now
+277,1630 Park,https://www.apartments.com/1630-park-washington-dc/h5018z3,731 Sq Ft,731,"$1,897",1897,"('1 ', ' bedroom')",$500,Available Now
+278,1630 Park,https://www.apartments.com/1630-park-washington-dc/h5018z3,707 Sq Ft,707,"$1,972",1972,"('1 ', ' bedroom')",$500,Available Now
+282,Washington House,https://www.apartments.com/washington-house-washington-dc/2tvesj9,736 Sq Ft,736,"$2,095",2095,"('1 ', ' bedroom')",$600,Available Now
+284,Park Square,https://www.apartments.com/park-square-washington-dc/953vhx7,735 Sq Ft,735,"$1,850",1850,"('1 ', ' bedroom')",$600,Available Now
+285,Connecticut Plaza Apartments,https://www.apartments.com/connecticut-plaza-apartments-washington-dc/35p1rgf,730 Sq Ft,730,"$1,760",1760,"('1 ', ' bedroom')",$0,Available Now
+286,Connecticut Plaza Apartments,https://www.apartments.com/connecticut-plaza-apartments-washington-dc/35p1rgf,875 - 895 Sq Ft,875895,"$1,850 - 2,700",1850 ,"('2 ', ' bedroom')",$0,Available Now
+287,Connecticut Plaza Apartments,https://www.apartments.com/connecticut-plaza-apartments-washington-dc/35p1rgf,843 Sq Ft,843,"$1,850",1850,"('2 ', ' bedroom')",$0,Available Now
+291,Cathedral Mansions,https://www.apartments.com/cathedral-mansions-washington-dc/zwwccmx,778 - 815 Sq Ft,778815,"$1,803 - 1,838",1803 ,"('1 ', ' bedroom')",$0,Available Now
+292,Cathedral Mansions,https://www.apartments.com/cathedral-mansions-washington-dc/zwwccmx,778 Sq Ft,778,"$1,838",1838,"('1 ', ' bedroom')",$0,Available Now
+293,Cathedral Mansions,https://www.apartments.com/cathedral-mansions-washington-dc/zwwccmx,793 - 827 Sq Ft,793827,"$2,103 - 2,203",2103 ,"('1 ', ' bedroom')",$0,Feb 22
+294,Cathedral Mansions,https://www.apartments.com/cathedral-mansions-washington-dc/zwwccmx,827 Sq Ft,827,"$2,103",2103,"('1 ', ' bedroom')",$0,Feb 22
+295,Cathedral Mansions,https://www.apartments.com/cathedral-mansions-washington-dc/zwwccmx,793 Sq Ft,793,"$2,203",2203,"('1 ', ' bedroom')",$0,Mar 24
+296,Cathedral Mansions,https://www.apartments.com/cathedral-mansions-washington-dc/zwwccmx,815 Sq Ft,815,"$1,803",1803,"('1 ', ' bedroom')",$0,Apr 9
+303,Corcoran House at Dupont Circle,https://www.apartments.com/corcoran-house-at-dupont-circle-washington-dc/pcjl68v,750 Sq Ft,750,"$1,987",1987,"('1 ', ' bedroom')",$0,Available Now
+307,1630 R Street,https://www.apartments.com/1630-r-street-washington-dc/b77b759,859 Sq Ft,859,"$2,199",2199,"('1 ', ' bedroom')",$0,Available Now
+311,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,702 Sq Ft,702,"$1,689 - 2,150",1689 ,"('1 ', ' bedroom')",$250,Available Now
+313,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,702 Sq Ft,702,"$1,843 - 2,150",1843 ,"('1 ', ' bedroom')",$250,Available Now
+314,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,712 Sq Ft,712,"$1,710 - 2,250",1710 ,"('1 ', ' bedroom')",$250,Available Now
+316,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,712 Sq Ft,712,"$1,908 - 2,225",1908 ,"('1 ', ' bedroom')",$250,Available Now
+317,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,702 Sq Ft,702,"$1,750",1750,"('1 ', ' bedroom')",$250,Available Now
+318,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,733 Sq Ft,733,"$1,750 - 2,300",1750 ,"('1 ', ' bedroom')",$250,Available Now
+320,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,774 Sq Ft,774,"$2,275",2275,"('1 ', ' bedroom')",$250,Available Now
+322,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,"1,057 Sq Ft",1057,Call for Rent,all f,"('2 ', ' bedroom')",$250,Available Now
+323,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,703 Sq Ft,703,"$2,180",2180,"('1 ', ' bedroom')",$250,Feb 13
+325,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,712 Sq Ft,712,"$1,929 - 2,250",1929 ,"('1 ', ' bedroom')",$250,Mar 5
+326,The Swift at Petworth Metro,https://www.apartments.com/the-swift-at-petworth-metro-washington-dc/reev000,733 Sq Ft,733,"$2,245",2245,"('1 ', ' bedroom')",$250,Mar 13
+461,Watermark at Buzzard Point,https://www.apartments.com/watermark-at-buzzard-point-washington-dc/y9f54dr,717 Sq Ft,717,"$2,282 - 2,452",2282 ,"('1 ', ' bedroom')",$0,Available Now
+463,Lex and Leo at Waterfront Station,https://www.apartments.com/lex-and-leo-at-waterfront-station-washington-dc/g9fz3pw,829 - 864 Sq Ft,829864,"$2,270 - 4,050",2270 ,"('2 ', ' bedroom')",$500,Available Now
+464,Lex and Leo at Waterfront Station,https://www.apartments.com/lex-and-leo-at-waterfront-station-washington-dc/g9fz3pw,829 Sq Ft,829,"$2,270 - 3,930",2270 ,"('2 ', ' bedroom')",$500,Available Now
+467,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,717 Sq Ft,717,"$2,099 - 2,258",2099 ,"('1 ', ' bedroom')",$300,Available Now
+468,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,717 Sq Ft,717,"$2,129",2129,"('1 ', ' bedroom')",$300,Available Now
+469,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,701 Sq Ft,701,"$2,154 - 2,164",2154 ,"('1 ', ' bedroom')",$300,Available Now
+470,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,701 Sq Ft,701,"$2,154",2154,"('1 ', ' bedroom')",$300,Available Now
+471,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,701 Sq Ft,701,"$2,164",2164,"('1 ', ' bedroom')",$300,Available Now
+472,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,712 Sq Ft,712,"$2,231 - 2,276",2231 ,"('1 ', ' bedroom')",$300,Available Now
+473,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,712 Sq Ft,712,"$2,231",2231,"('1 ', ' bedroom')",$300,Available Now
+475,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,712 Sq Ft,712,"$2,246",2246,"('1 ', ' bedroom')",$300,Available Now
+476,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,712 Sq Ft,712,"$2,261",2261,"('1 ', ' bedroom')",$300,Available Now
+478,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,718 Sq Ft,718,"$2,250 - 2,310",2250 ,"('1 ', ' bedroom')",$300,Available Now
+479,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,718 Sq Ft,718,"$2,250",2250,"('1 ', ' bedroom')",$300,Available Now
+480,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,718 Sq Ft,718,"$2,265",2265,"('1 ', ' bedroom')",$300,Available Now
+481,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,718 Sq Ft,718,"$2,280",2280,"('1 ', ' bedroom')",$300,Available Now
+482,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,718 Sq Ft,718,"$2,295",2295,"('1 ', ' bedroom')",$300,Available Now
+483,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,717 Sq Ft,717,"$2,099",2099,"('1 ', ' bedroom')",$300,Feb 9
+484,Parc Riverside,https://www.apartments.com/parc-riverside-washington-dc/hn9l512,717 Sq Ft,717,"$2,258",2258,"('1 ', ' bedroom')",$300,Mar 30
+503,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,720 Sq Ft,720,"$1,555",1555,"('1 ', ' bedroom')",$250,Available Now
+505,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,845 - 2,378",1845 ,"('1 ', ' bedroom')",$250,Available Now
+506,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,845",1845,"('1 ', ' bedroom')",$250,Available Now
+507,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,849",1849,"('1 ', ' bedroom')",$250,Available Now
+508,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,870",1870,"('1 ', ' bedroom')",$250,Available Now
+509,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,899",1899,"('1 ', ' bedroom')",$250,Available Now
+511,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,962",1962,"('1 ', ' bedroom')",$250,Available Now
+512,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,993",1993,"('1 ', ' bedroom')",$250,Available Now
+513,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$1,999",1999,"('1 ', ' bedroom')",$250,Available Now
+515,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,000",2000,"('1 ', ' bedroom')",$250,Available Now
+516,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,025",2025,"('1 ', ' bedroom')",$250,Available Now
+517,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,050",2050,"('1 ', ' bedroom')",$250,Available Now
+518,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,076",2076,"('1 ', ' bedroom')",$250,Available Now
+519,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,112",2112,"('1 ', ' bedroom')",$250,Available Now
+523,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,167",2167,"('1 ', ' bedroom')",$250,Available Now
+524,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,174",2174,"('1 ', ' bedroom')",$250,Available Now
+525,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,274",2274,"('1 ', ' bedroom')",$250,Available Now
+526,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,800 Sq Ft,800,"$2,287",2287,"('1 ', ' bedroom')",$250,Available Now
+527,Waterside Towers,https://www.apartments.com/waterside-towers-washington-dc/y9zxkws,720 Sq Ft,720,"$1,977",1977,"('1 ', ' bedroom')",$250,Available Now
+555,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,722 Sq Ft,722,"$1,808 - 3,551",1808 ,"('1 ', ' bedroom')",$0,Available Now
+557,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,720 Sq Ft,720,"$1,808 - 3,635",1808 ,"('1 ', ' bedroom')",$0,Available Now
+558,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,720 Sq Ft,720,"$1,808 - 3,551",1808 ,"('1 ', ' bedroom')",$0,Available Now
+559,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,720 Sq Ft,720,"$1,858 - 3,635",1858 ,"('1 ', ' bedroom')",$0,Available Now
+560,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,731 Sq Ft,731,"$1,843 - 3,610",1843 ,"('1 ', ' bedroom')",$0,Available Now
+562,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,723 Sq Ft,723,"$2,210 - 4,274",2210 ,"('1 ', ' bedroom')",$0,Available Now
+564,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,772 Sq Ft,772,"$2,285 - 4,401",2285 ,"('1 ', ' bedroom')",$0,Available Now
+566,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,731 Sq Ft,731,"$1,889 - 3,485",1889 ,"('1 ', ' bedroom')",$0,Mar 2
+567,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,756 Sq Ft,756,"$1,859 - 3,458",1859 ,"('1 ', ' bedroom')",$0,Mar 3
+568,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,756 Sq Ft,756,"$1,859 - 3,438",1859 ,"('1 ', ' bedroom')",$0,Mar 3
+569,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,722 Sq Ft,722,"$1,889 - 3,485",1889 ,"('1 ', ' bedroom')",$0,Mar 23
+570,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,756 Sq Ft,756,"$1,859 - 3,458",1859 ,"('1 ', ' bedroom')",$0,Apr 3
+571,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,779 Sq Ft,779,"$1,839 - 3,426",1839 ,"('1 ', ' bedroom')",$0,Apr 4
+573,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,722 Sq Ft,722,"$1,879 - 3,490",1879 ,"('1 ', ' bedroom')",$0,Apr 11
+593,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,715 Sq Ft,715,"$1,650 - 1,895",1650 ,"('1 ', ' bedroom')",$0,Available Now
+594,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,715 Sq Ft,715,"$1,650",1650,"('1 ', ' bedroom')",$0,Available Now
+595,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,715 Sq Ft,715,"$1,765",1765,"('1 ', ' bedroom')",$0,Available Now
+596,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,715 Sq Ft,715,"$1,895",1895,"('1 ', ' bedroom')",$0,Available Now
+597,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,932 Sq Ft,932,"$1,765 - 1,940",1765 ,"('1 ', ' bedroom')","$1,765",Available Now
+598,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,932 Sq Ft,932,"$1,765",1765,"('1 ', ' bedroom')","$1,765",Available Now
+599,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,932 Sq Ft,932,"$1,765",1765,"('1 ', ' bedroom')",$0,Available Now
+600,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,932 Sq Ft,932,"$1,940",1940,"('1 ', ' bedroom')",$0,Available Now
+602,1001 @ Waterfront,https://www.apartments.com/1001-waterfront-washington-dc/bchw3l8,"1,152 Sq Ft",1152,"$2,240 - 2,625",2240 ,"('2 ', ' bedroom')","$2,400",Available Now
+613,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,713 Sq Ft,713,"$1,860",1860,"('1 ', ' bedroom')",$0,Available Now
+615,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,791 Sq Ft,791,"$2,072 - 2,092",2072 ,"('1 ', ' bedroom')",$0,Available Now
+616,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,791 Sq Ft,791,"$2,072",2072,"('1 ', ' bedroom')",$0,Available Now
+617,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,791 Sq Ft,791,"$2,092",2092,"('1 ', ' bedroom')",$0,Feb 11
+618,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,771 Sq Ft,771,"$2,150",2150,"('1 ', ' bedroom')",$0,Feb 19
+620,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,784 Sq Ft,784,"$2,172",2172,"('1 ', ' bedroom')",$0,Mar 26
+622,Camden South Capitol,https://www.apartments.com/camden-south-capitol-washington-dc/rrjzp51,729 Sq Ft,729,"$2,024",2024,"('1 ', ' bedroom')",$0,Mar 31
+635,The Bixby,https://www.apartments.com/the-bixby-washington-dc/2sybkcb,795 Sq Ft,795,"$2,171 - 2,591",2171 ,"('1 ', ' bedroom')",$750,Apr 8
+637,909,https://www.apartments.com/909-washington-dc/09etle3,771 Sq Ft,771,"$1,820 - 3,544",1820 ,"('1 ', ' bedroom')",$0,Feb 7
+638,909,https://www.apartments.com/909-washington-dc/09etle3,828 Sq Ft,828,"$1,885 - 3,819",1885 ,"('1 ', ' bedroom')",$0,Feb 7
+639,909,https://www.apartments.com/909-washington-dc/09etle3,905 Sq Ft,905,"$1,935 - 4,012",1935 ,"('1 ', ' bedroom')",$0,Available Now
+640,909,https://www.apartments.com/909-washington-dc/09etle3,741 Sq Ft,741,"$1,940 - 3,279",1940 ,"('1 ', ' bedroom')",$0,Available Now
+641,909,https://www.apartments.com/909-washington-dc/09etle3,828 Sq Ft,828,"$1,965 - 4,051",1965 ,"('1 ', ' bedroom')",$0,Available Now
+642,909,https://www.apartments.com/909-washington-dc/09etle3,953 Sq Ft,953,"$2,135 - 3,896",2135 ,"('1 ', ' bedroom')",$0,Apr 1
+643,909,https://www.apartments.com/909-washington-dc/09etle3,750 Sq Ft,750,Call for Rent,all f,"('St', ' bedroom')",$0,Available Soon
+644,909,https://www.apartments.com/909-washington-dc/09etle3,967 Sq Ft,967,Call for Rent,all f,"('St', ' bedroom')",$0,Available Soon
+645,909,https://www.apartments.com/909-washington-dc/09etle3,775 Sq Ft,775,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+646,909,https://www.apartments.com/909-washington-dc/09etle3,837 Sq Ft,837,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+647,909,https://www.apartments.com/909-washington-dc/09etle3,894 Sq Ft,894,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+648,909,https://www.apartments.com/909-washington-dc/09etle3,922 Sq Ft,922,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+649,909,https://www.apartments.com/909-washington-dc/09etle3,993 Sq Ft,993,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+650,909,https://www.apartments.com/909-washington-dc/09etle3,771 Sq Ft,771,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+651,909,https://www.apartments.com/909-washington-dc/09etle3,741 Sq Ft,741,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+652,909,https://www.apartments.com/909-washington-dc/09etle3,"1,051 Sq Ft",1051,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+653,909,https://www.apartments.com/909-washington-dc/09etle3,"1,011 Sq Ft",1011,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+654,909,https://www.apartments.com/909-washington-dc/09etle3,"1,068 Sq Ft",1068,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+655,909,https://www.apartments.com/909-washington-dc/09etle3,"1,116 Sq Ft",1116,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+656,909,https://www.apartments.com/909-washington-dc/09etle3,"1,155 Sq Ft",1155,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+677,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,747 Sq Ft,747,"$2,003 - 2,441",2003 ,"('1 ', ' bedroom')",$250,Available Now
+678,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,747 Sq Ft,747,"$2,003 - 2,441",2003 ,"('1 ', ' bedroom')",$0,Available Now
+679,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,744 Sq Ft,744,"$2,236 - 2,919",2236 ,"('1 ', ' bedroom')",$250,Available Now
+680,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,817 Sq Ft,817,"$2,058 - 2,557",2058 ,"('1 ', ' bedroom')",$250,Feb 14
+681,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,817 Sq Ft,817,"$2,058 - 2,499",2058 ,"('1 ', ' bedroom')",$0,Feb 14
+682,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,751 Sq Ft,751,"$1,975 - 2,445",1975 ,"('1 ', ' bedroom')",$250,Feb 22
+683,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,751 Sq Ft,751,"$1,975 - 2,404",1975 ,"('1 ', ' bedroom')",$0,Feb 22
+684,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,817 Sq Ft,817,"$2,108 - 2,557",2108 ,"('1 ', ' bedroom')",$0,Feb 22
+685,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,740 Sq Ft,740,"$1,984 - 2,366",1984 ,"('1 ', ' bedroom')",$250,Feb 27
+686,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,740 Sq Ft,740,"$1,984 - 2,366",1984 ,"('1 ', ' bedroom')",$0,Feb 27
+687,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,717 Sq Ft,717,"$1,910 - 2,421",1910 ,"('1 ', ' bedroom')",$250,Mar 3
+688,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,717 Sq Ft,717,"$1,910 - 2,421",1910 ,"('1 ', ' bedroom')",$0,Mar 3
+689,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,751 Sq Ft,751,"$1,995 - 2,445",1995 ,"('1 ', ' bedroom')",$0,Mar 27
+690,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,744 Sq Ft,744,"$2,236 - 2,919",2236 ,"('1 ', ' bedroom')",$0,Apr 4
+691,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,723 Sq Ft,723,"$2,025 - 2,680",2025 ,"('1 ', ' bedroom')",$250,Apr 19
+692,Eliot on 4th,https://www.apartments.com/eliot-on-4th-washington-dc/e4mgx1p,723 Sq Ft,723,"$2,025 - 2,680",2025 ,"('1 ', ' bedroom')",$0,Apr 19
+709,Onyx on First,https://www.apartments.com/onyx-on-first-washington-dc/kz1q2c8,726 Sq Ft,726,"$2,275",2275,"('2 ', ' bedroom')",$0,Available Now
+711,Onyx on First,https://www.apartments.com/onyx-on-first-washington-dc/kz1q2c8,795 Sq Ft,795,"$2,275 - 2,500",2275 ,"('2 ', ' bedroom')",$0,Available Now
+712,Onyx on First,https://www.apartments.com/onyx-on-first-washington-dc/kz1q2c8,795 Sq Ft,795,"$2,275",2275,"('2 ', ' bedroom')",$0,Available Now
+713,Onyx on First,https://www.apartments.com/onyx-on-first-washington-dc/kz1q2c8,726 Sq Ft,726,"$2,275",2275,"('2 ', ' bedroom')",$0,Feb 23
+714,Onyx on First,https://www.apartments.com/onyx-on-first-washington-dc/kz1q2c8,"1,088 Sq Ft",1088,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+721,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,771 Sq Ft,771,"$1,490",1490,"('1 ', ' bedroom')",$0,Available Now
+723,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,748 Sq Ft,748,"$2,145 - 2,635",2145 ,"('1 ', ' bedroom')",$0,Available Now
+724,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,748 Sq Ft,748,"$2,145 - 2,300",2145 ,"('1 ', ' bedroom')",$0,Available Now
+725,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,748 Sq Ft,748,"$2,145 - 2,300",2145 ,"('1 ', ' bedroom')",$0,Feb 7
+726,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,777 Sq Ft,777,"$2,165 - 2,320",2165 ,"('1 ', ' bedroom')",$0,Available Now
+728,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,771 Sq Ft,771,"$1,490",1490,"('1 ', ' bedroom')",$0,Feb 12
+729,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,748 Sq Ft,748,"$2,260 - 2,460",2260 ,"('1 ', ' bedroom')",$0,Feb 19
+730,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,712 Sq Ft,712,"$1,995 - 2,295",1995 ,"('1 ', ' bedroom')",$0,Feb 24
+731,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,712 Sq Ft,712,"$1,995 - 2,165",1995 ,"('1 ', ' bedroom')",$0,Feb 24
+732,f1rst residences,https://www.apartments.com/f1rst-residences-washington-dc/pwqnvsv,712 Sq Ft,712,"$2,140 - 2,295",2140 ,"('1 ', ' bedroom')",$0,Mar 5
+751,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,733 Sq Ft,733,"$1,872 - 1,903",1872 ,"('1 ', ' bedroom')",$300,Available Now
+752,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,733 Sq Ft,733,"$1,872",1872,"('1 ', ' bedroom')",$0,Available Now
+753,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,733 Sq Ft,733,"$1,903",1903,"('1 ', ' bedroom')",$0,Available Now
+754,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,712 Sq Ft,712,"$1,882",1882,"('1 ', ' bedroom')",$300,Available Now
+755,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,712 Sq Ft,712,"$1,882",1882,"('1 ', ' bedroom')",$0,Available Now
+756,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,731 Sq Ft,731,"$1,903",1903,"('1 ', ' bedroom')",$300,Available Now
+757,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,731 Sq Ft,731,"$1,903",1903,"('1 ', ' bedroom')",$0,Available Now
+758,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,733 Sq Ft,733,"$1,903 - 2,018",1903 ,"('1 ', ' bedroom')",$300,Available Now
+760,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,733 Sq Ft,733,"$2,018",2018,"('1 ', ' bedroom')",$0,Available Now
+761,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,748 Sq Ft,748,"$1,918",1918,"('1 ', ' bedroom')",$300,Available Now
+762,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,748 Sq Ft,748,"$1,918",1918,"('1 ', ' bedroom')",$0,Available Now
+763,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,778 Sq Ft,778,"$1,948 - 2,033",1948 ,"('1 ', ' bedroom')",$300,Available Now
+764,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,778 Sq Ft,778,"$1,948",1948,"('1 ', ' bedroom')",$0,Available Now
+765,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,778 Sq Ft,778,"$1,963",1963,"('1 ', ' bedroom')",$0,Available Now
+766,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,778 Sq Ft,778,"$2,033",2033,"('1 ', ' bedroom')",$0,Available Now
+767,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,836 Sq Ft,836,"$2,108",2108,"('1 ', ' bedroom')",$300,Available Now
+768,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,836 Sq Ft,836,"$2,108",2108,"('1 ', ' bedroom')",$0,Available Now
+769,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,817 Sq Ft,817,"$2,214",2214,"('1 ', ' bedroom')",$300,Available Now
+770,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,817 Sq Ft,817,"$2,214",2214,"('1 ', ' bedroom')",$0,Available Now
+771,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,819 Sq Ft,819,"$2,229 - 2,328",2229 ,"('1 ', ' bedroom')",$300,Available Now
+772,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,819 Sq Ft,819,"$2,229",2229,"('1 ', ' bedroom')",$0,Available Now
+773,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,819 Sq Ft,819,"$2,234",2234,"('1 ', ' bedroom')",$0,Available Now
+774,Valo,https://www.apartments.com/valo-washington-dc/fvrk50r,819 Sq Ft,819,"$2,264",2264,"('1 ', ' bedroom')",$0,Available Now
+887,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,749 Sq Ft,749,"$1,630 - 3,867",1630 ,"('1 ', ' bedroom')",$0,Available Now
+888,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,744 Sq Ft,744,"$1,665 - 4,800",1665 ,"('1 ', ' bedroom')",$0,Available Now
+889,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,745 Sq Ft,745,"$1,685 - 4,889",1685 ,"('1 ', ' bedroom')",$0,Available Now
+890,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,758 Sq Ft,758,"$1,700 - 4,048",1700 ,"('1 ', ' bedroom')",$0,Available Now
+891,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,760 Sq Ft,760,"$1,710 - 3,409",1710 ,"('1 ', ' bedroom')",$0,Available Now
+892,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,770 Sq Ft,770,"$1,720 - 3,519",1720 ,"('1 ', ' bedroom')",$0,Available Now
+893,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,761 Sq Ft,761,"$1,740 - 4,469",1740 ,"('1 ', ' bedroom')",$0,Available Now
+894,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,778 Sq Ft,778,"$1,778 - 3,588",1778 ,"('1 ', ' bedroom')",$0,Available Now
+895,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,750 Sq Ft,750,"$1,780 - 4,413",1780 ,"('1 ', ' bedroom')",$0,Available Now
+896,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,752 Sq Ft,752,"$1,790 - 4,242",1790 ,"('1 ', ' bedroom')",$0,Available Now
+897,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,810 Sq Ft,810,"$1,800 - 3,846",1800 ,"('1 ', ' bedroom')",$0,Available Now
+898,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,841 Sq Ft,841,"$1,805 - 4,443",1805 ,"('1 ', ' bedroom')",$0,Available Now
+899,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,837 Sq Ft,837,"$1,835 - 4,542",1835 ,"('1 ', ' bedroom')",$0,Available Now
+900,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,822 Sq Ft,822,"$1,905 - 3,616",1905 ,"('1 ', ' bedroom')",$0,Available Now
+901,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,838 Sq Ft,838,"$1,905 - 3,728",1905 ,"('1 ', ' bedroom')",$0,Available Now
+902,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,839 Sq Ft,839,"$1,910 - 4,811",1910 ,"('1 ', ' bedroom')",$0,Available Now
+903,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,822 Sq Ft,822,"$1,945 - 3,980",1945 ,"('1 ', ' bedroom')",$0,Available Now
+904,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,898 Sq Ft,898,"$1,955 - 4,816",1955 ,"('1 ', ' bedroom')",$0,Available Now
+905,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,933 Sq Ft,933,"$2,035 - 3,875",2035 ,"('1 ', ' bedroom')",$0,Available Now
+906,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,839 Sq Ft,839,"$2,141 - 5,103",2141 ,"('1 ', ' bedroom')",$0,Available Now
+907,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,006 Sq Ft",1006,"$2,168 - 5,090",2168 ,"('1 ', ' bedroom')",$0,Available Now
+908,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,838 Sq Ft,838,"$2,176 - 5,119",2176 ,"('1 ', ' bedroom')",$0,Available Now
+909,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,938 Sq Ft,938,"$2,210 - 4,171",2210 ,"('1 ', ' bedroom')",$0,Available Now
+910,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,995 Sq Ft,995,"$2,223 - 5,527",2223 ,"('1 ', ' bedroom')",$0,Available Now
+911,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,714 Sq Ft,714,"$1,755 - 4,466",1755 ,"('1 ', ' bedroom')",$0,Feb 10
+912,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,752 Sq Ft,752,"$1,660 - 3,732",1660 ,"('1 ', ' bedroom')",$0,Mar 3
+913,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,752 Sq Ft,752,"$1,680 - 3,778",1680 ,"('1 ', ' bedroom')",$0,Mar 21
+914,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,903 Sq Ft,903,"$1,980 - 3,902",1980 ,"('1 ', ' bedroom')",$0,Mar 22
+915,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,875 Sq Ft,875,"$2,141 - 5,688",2141 ,"('1 ', ' bedroom')",$0,Apr 4
+916,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,752 Sq Ft,752,"$1,635 - 3,677",1635 ,"('1 ', ' bedroom')",$0,Apr 7
+917,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,837 Sq Ft,837,"$1,955 - 4,351",1955 ,"('1 ', ' bedroom')",$0,Apr 8
+918,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,703 Sq Ft,703,"$1,578 - 3,200",1578 ,"('St', ' bedroom')",$0,Apr 15
+919,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,736 Sq Ft,736,Call for Rent,all f,"('St', ' bedroom')",$0,Available Soon
+920,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,726 Sq Ft,726,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+921,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,740 Sq Ft,740,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+922,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,758 Sq Ft,758,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+923,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,778 Sq Ft,778,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+924,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,806 Sq Ft,806,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+925,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,815 Sq Ft,815,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+926,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,881 Sq Ft,881,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+927,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,945 Sq Ft,945,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+928,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,962 Sq Ft,962,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+929,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,967 Sq Ft,967,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+930,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,711 Sq Ft,711,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+931,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,713 Sq Ft,713,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+932,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,725 Sq Ft,725,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+933,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,737 Sq Ft,737,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+934,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,749 Sq Ft,749,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+935,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,750 Sq Ft,750,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+936,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,973 Sq Ft,973,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+937,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,006 Sq Ft",1006,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+938,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,147 Sq Ft",1147,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+939,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,977 Sq Ft,977,Call for Rent,all f,"('1 ', ' bedroom')",$0,Available Soon
+940,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,192 Sq Ft",1192,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+941,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,022 Sq Ft",1022,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+942,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,176 Sq Ft",1176,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+943,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,212 Sq Ft",1212,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+944,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,251 Sq Ft",1251,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+946,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,374 Sq Ft",1374,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+947,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,040 Sq Ft",1040,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+948,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,"1,147 Sq Ft",1147,Call for Rent,all f,"('2 ', ' bedroom')",$0,Available Soon
+1179,The Apollo,https://www.apartments.com/the-apollo-washington-dc/j0s2m86,718 Sq Ft,718,"$2,174 - 5,291",2174 ,"('1 ', ' bedroom')",$0,Available Now
+1180,The Apollo,https://www.apartments.com/the-apollo-washington-dc/j0s2m86,723 Sq Ft,723,"$2,029 - 5,117",2029 ,"('1 ', ' bedroom')",$0,Mar 8
+1183,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,704 Sq Ft,704,"$2,023 - 2,915",2023 ,"('1 ', ' bedroom')",$0,Available Now
+1184,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,704 Sq Ft,704,"$2,023",2023,"('1 ', ' bedroom')",$0,Available Now
+1185,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,704 Sq Ft,704,"$2,033",2033,"('1 ', ' bedroom')",$0,Available Now
+1187,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,782 Sq Ft,782,"$2,103 - 3,195",2103 ,"('1 ', ' bedroom')",$0,Available Now
+1188,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,782 Sq Ft,782,"$2,103",2103,"('1 ', ' bedroom')",$0,Available Now
+1189,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,782 Sq Ft,782,"$2,113",2113,"('1 ', ' bedroom')",$0,Available Now
+1190,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,782 Sq Ft,782,"$2,233",2233,"('1 ', ' bedroom')",$0,Available Now
+1191,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,738 Sq Ft,738,"$2,138 - 3,066",2138 ,"('1 ', ' bedroom')",$0,Available Now
+1192,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,738 Sq Ft,738,"$2,138",2138,"('1 ', ' bedroom')",$0,Available Now
+1193,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,883 Sq Ft,883,"$2,283 - 3,268",2283 ,"('1 ', ' bedroom')",$0,Available Now
+1194,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,883 Sq Ft,883,"$2,283",2283,"('1 ', ' bedroom')",$0,Available Now
+1195,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,703 Sq Ft,703,"$2,123 - 3,059",2123 ,"('1 ', ' bedroom')",$0,Feb 8
+1196,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,703 Sq Ft,703,"$2,123",2123,"('1 ', ' bedroom')",$0,Feb 8
+1197,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,703 Sq Ft,703,"$2,143",2143,"('1 ', ' bedroom')",$0,Mar 7
+1198,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,791 Sq Ft,791,"$2,268 - 3,229",2268 ,"('1 ', ' bedroom')",$0,Mar 12
+1199,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,791 Sq Ft,791,"$2,268",2268,"('1 ', ' bedroom')",$0,Mar 12
+1200,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,732 Sq Ft,732,"$2,053 - 2,832",2053 ,"('1 ', ' bedroom')",$0,Mar 25
+1201,Station House,https://www.apartments.com/station-house-washington-dc/03e9td3,732 Sq Ft,732,"$2,053",2053,"('1 ', ' bedroom')",$0,Mar 25
+1221,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,735 Sq Ft,735,"$1,804 - 1,814",1804 ,"('1 ', ' bedroom')",$0,Available Now
+1222,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,735 Sq Ft,735,"$1,814",1814,"('1 ', ' bedroom')",$400,Available Now
+1223,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,747 Sq Ft,747,"$1,924 - 1,969",1924 ,"('1 ', ' bedroom')",$0,Available Now
+1224,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,747 Sq Ft,747,"$1,924",1924,"('1 ', ' bedroom')",$400,Available Now
+1225,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,747 Sq Ft,747,"$1,939",1939,"('1 ', ' bedroom')",$400,Available Now
+1226,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,789 Sq Ft,789,"$2,291 - 2,316",2291 ,"('1 ', ' bedroom')",$0,Available Now
+1227,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,789 Sq Ft,789,"$2,291",2291,"('1 ', ' bedroom')",$400,Available Now
+1228,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,747 Sq Ft,747,"$1,969",1969,"('1 ', ' bedroom')",$400,Mar 16
+1229,Anthology,https://www.apartments.com/anthology-washington-dc/wszpeqj,735 Sq Ft,735,"$1,804",1804,"('1 ', ' bedroom')",$400,May 8
+1239,AVA H Street,https://www.apartments.com/ava-h-street-washington-dc/gggrwgz,816 Sq Ft,816,"$1,995",1995,"('2 ', ' bedroom')",$300,Available Now
+1240,AVA H Street,https://www.apartments.com/ava-h-street-washington-dc/gggrwgz,854 Sq Ft,854,"$2,005 - 2,225",2005 ,"('2 ', ' bedroom')",$300,Available Now
+1241,AVA H Street,https://www.apartments.com/ava-h-street-washington-dc/gggrwgz,923 Sq Ft,923,"$2,100",2100,"('2 ', ' bedroom')",$300,Available Now
+1242,AVA H Street,https://www.apartments.com/ava-h-street-washington-dc/gggrwgz,828 Sq Ft,828,"$2,220",2220,"('2 ', ' bedroom')",$300,Available Now
+1247,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,700 Sq Ft,700,"$1,544",1544,"('1 ', ' bedroom')",$0,Available Now
+1248,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,728 Sq Ft,728,"$1,848",1848,"('1 ', ' bedroom')",$0,Available Now
+1249,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,737 Sq Ft,737,"$1,963 - 2,033",1963 ,"('1 ', ' bedroom')",$0,Available Now
+1250,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,773 Sq Ft,773,"$1,998 - 2,088",1998 ,"('1 ', ' bedroom')",$0,Available Now
+1252,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,822 Sq Ft,822,"$2,078 - 2,168",2078 ,"('1 ', ' bedroom')",$0,Available Now
+1254,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,876 Sq Ft,876,"$2,007 - 2,047",2007 ,"('2 ', ' bedroom')",$0,Available Now
+1255,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,876 Sq Ft,876,"$2,027",2027,"('2 ', ' bedroom')",$0,Available Now
+1256,Union Heights,https://www.apartments.com/union-heights-washington-dc/py4ex5t,921 Sq Ft,921,"$2,077",2077,"('2 ', ' bedroom')",$0,Apr 2
+1267,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,773 Sq Ft,773,"$1,817 - 2,837",1817 ,"('1 ', ' bedroom')",$300,Available Now
+1268,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,773 Sq Ft,773,"$1,817",1817,"('1 ', ' bedroom')",$300,Available Now
+1269,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,783 Sq Ft,783,"$1,847 - 2,717",1847 ,"('1 ', ' bedroom')",$0,Available Now
+1270,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,783 Sq Ft,783,"$1,847",1847,"('1 ', ' bedroom')",$300,Available Now
+1271,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,809 Sq Ft,809,"$1,887 - 2,797",1887 ,"('1 ', ' bedroom')",$300,Available Now
+1272,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,791 Sq Ft,791,"$2,162 - 2,887",2162 ,"('1 ', ' bedroom')",$300,Available Now
+1273,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,791 Sq Ft,791,"$2,162",2162,"('1 ', ' bedroom')",$300,Available Now
+1274,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,843 Sq Ft,843,"$2,202 - 2,912",2202 ,"('1 ', ' bedroom')",$300,Available Now
+1275,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,843 Sq Ft,843,"$2,202",2202,"('1 ', ' bedroom')",$300,Available Now
+1276,Union Place,https://www.apartments.com/union-place-washington-dc/kxp7jp9,752 Sq Ft,752,"$2,242",2242,"('1 ', ' bedroom')",$300,Mar 11
+1289,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,098 - 2,198",2098 ,"('1 ', ' bedroom')",$0,Available Now
+1290,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,098",2098,"('1 ', ' bedroom')",$0,Available Now
+1291,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,128",2128,"('1 ', ' bedroom')",$0,Available Now
+1292,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,768 Sq Ft,768,"$2,114 - 2,249",2114 ,"('1 ', ' bedroom')",$0,Available Now
+1293,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,768 Sq Ft,768,"$2,124",2124,"('1 ', ' bedroom')",$0,Available Now
+1296,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,768 Sq Ft,768,"$2,174",2174,"('1 ', ' bedroom')",$0,Available Now
+1299,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,768 Sq Ft,768,"$2,249",2249,"('1 ', ' bedroom')",$0,Available Now
+1302,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,132 - 2,177",2132 ,"('1 ', ' bedroom')",$0,Available Now
+1303,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,132",2132,"('1 ', ' bedroom')",$0,Available Now
+1304,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,146 - 2,206",2146 ,"('1 ', ' bedroom')",$0,Available Now
+1305,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,161",2161,"('1 ', ' bedroom')",$0,Available Now
+1306,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,206",2206,"('1 ', ' bedroom')",$0,Available Now
+1307,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,756 Sq Ft,756,"$2,161 - 2,186",2161 ,"('1 ', ' bedroom')",$0,Available Now
+1308,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,756 Sq Ft,756,"$2,161",2161,"('1 ', ' bedroom')",$0,Available Now
+1309,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,161 - 2,186",2161 ,"('1 ', ' bedroom')",$0,Available Now
+1310,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,186",2186,"('1 ', ' bedroom')",$0,Available Now
+1311,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,758 Sq Ft,758,"$2,162",2162,"('1 ', ' bedroom')",$0,Available Now
+1313,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,788 Sq Ft,788,"$2,295",2295,"('1 ', ' bedroom')",$0,Available Now
+1315,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,118",2118,"('1 ', ' bedroom')",$0,Feb 15
+1316,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,128",2128,"('1 ', ' bedroom')",$0,Feb 15
+1319,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,768 Sq Ft,768,"$2,134",2134,"('1 ', ' bedroom')",$0,Feb 15
+1320,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,156 - 2,191",2156 ,"('1 ', ' bedroom')",$0,Feb 15
+1321,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,166",2166,"('1 ', ' bedroom')",$0,Feb 15
+1322,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,191",2191,"('1 ', ' bedroom')",$0,Feb 15
+1323,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,161",2161,"('1 ', ' bedroom')",$0,Feb 15
+1326,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,764 Sq Ft,764,"$2,124 - 2,164",2124 ,"('1 ', ' bedroom')",$0,Mar 1
+1327,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,764 Sq Ft,764,"$2,134",2134,"('1 ', ' bedroom')",$0,Mar 1
+1328,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,167",2167,"('1 ', ' bedroom')",$0,Mar 1
+1329,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,166",2166,"('1 ', ' bedroom')",$0,Mar 1
+1330,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,756 Sq Ft,756,"$2,166",2166,"('1 ', ' bedroom')",$0,Mar 1
+1331,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,171",2171,"('1 ', ' bedroom')",$0,Mar 1
+1332,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,280 - 2,320",2280 ,"('1 ', ' bedroom')",$0,Mar 1
+1333,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,295",2295,"('1 ', ' bedroom')",$0,Mar 1
+1334,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,138",2138,"('1 ', ' bedroom')",$0,Mar 15
+1337,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,744 Sq Ft,744,"$2,198",2198,"('1 ', ' bedroom')",$0,Mar 15
+1338,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,764 Sq Ft,764,"$2,124",2124,"('1 ', ' bedroom')",$0,Mar 15
+1339,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,172",2172,"('1 ', ' bedroom')",$0,Mar 15
+1340,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,146",2146,"('1 ', ' bedroom')",$0,Mar 15
+1341,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,176",2176,"('1 ', ' bedroom')",$0,Mar 15
+1342,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,756 Sq Ft,756,"$2,171",2171,"('1 ', ' bedroom')",$0,Mar 15
+1343,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,171",2171,"('1 ', ' bedroom')",$0,Mar 15
+1347,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,285",2285,"('1 ', ' bedroom')",$0,Mar 15
+1348,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,290",2290,"('1 ', ' bedroom')",$0,Mar 15
+1349,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,295",2295,"('1 ', ' bedroom')",$0,Mar 15
+1350,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,854 Sq Ft,854,"$2,113",2113,"('1 ', ' bedroom')",$0,Apr 1
+1353,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,764 Sq Ft,764,"$2,144",2144,"('1 ', ' bedroom')",$0,Apr 1
+1354,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,764 Sq Ft,764,"$2,154",2154,"('1 ', ' bedroom')",$0,Apr 1
+1355,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,764 Sq Ft,764,"$2,164",2164,"('1 ', ' bedroom')",$0,Apr 1
+1356,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,157",2157,"('1 ', ' bedroom')",$0,Apr 1
+1357,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,167",2167,"('1 ', ' bedroom')",$0,Apr 1
+1358,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,738 Sq Ft,738,"$2,177",2177,"('1 ', ' bedroom')",$0,Apr 1
+1359,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,176",2176,"('1 ', ' bedroom')",$0,Apr 1
+1360,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,186",2186,"('1 ', ' bedroom')",$0,Apr 1
+1361,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,780 Sq Ft,780,"$2,191",2191,"('1 ', ' bedroom')",$0,Apr 1
+1362,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,156",2156,"('1 ', ' bedroom')",$0,Apr 1
+1363,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,166",2166,"('1 ', ' bedroom')",$0,Apr 1
+1364,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,737 Sq Ft,737,"$2,191",2191,"('1 ', ' bedroom')",$0,Apr 1
+1365,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,756 Sq Ft,756,"$2,176",2176,"('1 ', ' bedroom')",$0,Apr 1
+1366,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,756 Sq Ft,756,"$2,186",2186,"('1 ', ' bedroom')",$0,Apr 1
+1367,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,186",2186,"('1 ', ' bedroom')",$0,Apr 1
+1368,Park Kennedy,https://www.apartments.com/park-kennedy-washington-dc/yf93vtt,855 Sq Ft,855,"$2,280",2280,"('1 ', ' bedroom')",$0,Apr 1
+1453,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,706 Sq Ft,706,"$1,670 - 7,626",1670 ,"('1 ', ' bedroom')",$0,Available Now
+1454,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,706 Sq Ft,706,"$1,826 - 7,684",1826 ,"('1 ', ' bedroom')",$0,Available Now
+1455,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,706 Sq Ft,706,"$1,931 - 8,049",1931 ,"('1 ', ' bedroom')",$0,Available Now
+1456,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,811 - 819 Sq Ft,811819,"$1,843 - 11,151",1843 ,"('1 ', ' bedroom')",$0,Available Now
+1457,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,811 Sq Ft,811,"$1,843 - 8,357",1843 ,"('1 ', ' bedroom')",$0,Available Now
+1458,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,819 Sq Ft,819,"$1,909 - 8,604",1909 ,"('1 ', ' bedroom')",$0,Available Now
+1459,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,811 Sq Ft,811,"$2,043 - 8,617",2043 ,"('1 ', ' bedroom')",$0,Available Now
+1460,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,800 Sq Ft,800,"$2,052 - 8,971",2052 ,"('1 ', ' bedroom')",$0,Available Now
+1462,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,"1,013 Sq Ft",1013,"$2,141 - 8,861",2141 ,"('1 ', ' bedroom')",$0,Available Now
+1464,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,811 Sq Ft,811,"$1,897 - 7,928",1897 ,"('1 ', ' bedroom')",$0,Feb 10
+1465,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,819 Sq Ft,819,"$2,008 - 8,113",2008 ,"('1 ', ' bedroom')",$0,Feb 16
+1466,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,819 Sq Ft,819,"$2,038 - 8,225",2038 ,"('1 ', ' bedroom')",$0,Feb 17
+1467,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,843 Sq Ft,843,"$2,214 - 8,893",2214 ,"('1 ', ' bedroom')",$0,Mar 9
+1469,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,721 Sq Ft,721,"$1,961 - 7,902",1961 ,"('1 ', ' bedroom')",$0,Mar 10
+1471,Mass Court,https://www.apartments.com/mass-court-washington-dc/ghlk6jw,819 Sq Ft,819,"$2,206 - 11,151",2206 ,"('1 ', ' bedroom')",$0,Mar 26
+1583,100K,https://www.apartments.com/100k-washington-dc/yyemckv,759 Sq Ft,759,"$2,075",2075,"('1 ', ' bedroom')",$0,Mar 13
+1585,100K,https://www.apartments.com/100k-washington-dc/yyemckv,762 Sq Ft,762,"$2,050",2050,"('1 ', ' bedroom')",$0,Apr 8
+1591,Avalon at Gallery Place,https://www.apartments.com/avalon-at-gallery-place-washington-dc/2xewxe9,753 Sq Ft,753,"$1,850 - 1,895",1850 ,"('1 ', ' bedroom')",$350,Available Now
+1592,Avalon at Gallery Place,https://www.apartments.com/avalon-at-gallery-place-washington-dc/2xewxe9,728 Sq Ft,728,"$1,863",1863,"('1 ', ' bedroom')",$350,Available Now
+1593,Avalon at Gallery Place,https://www.apartments.com/avalon-at-gallery-place-washington-dc/2xewxe9,718 Sq Ft,718,"$1,950",1950,"('1 ', ' bedroom')",$350,Available Now
+1594,Avalon at Gallery Place,https://www.apartments.com/avalon-at-gallery-place-washington-dc/2xewxe9,827 Sq Ft,827,"$2,085",2085,"('1 ', ' bedroom')",$350,Available Now
+1595,Avalon at Gallery Place,https://www.apartments.com/avalon-at-gallery-place-washington-dc/2xewxe9,809 Sq Ft,809,"$2,130",2130,"('1 ', ' bedroom')",$350,Available Now
+1596,Avalon at Gallery Place,https://www.apartments.com/avalon-at-gallery-place-washington-dc/2xewxe9,753 Sq Ft,753,"$2,210",2210,"('1 ', ' bedroom')",$350,Available Now
+1603,The Etta,https://www.apartments.com/the-etta-washington-dc/7v5936y,817 - 900 Sq Ft,817900,"$2,150 - 2,195",2150 ,"('2 ', ' bedroom')",$0,Available Now
+1630,Capitol Yards,https://www.apartments.com/capitol-yards-washington-dc/0xrcww3,752 Sq Ft,752,"$1,660 - 3,732",1660 ,"('1 ', ' bedroom')",$0,Feb 21
+1729,Bell Capitol Hill,https://www.apartments.com/bell-capitol-hill-washington-dc/j32g7t7,773 Sq Ft,773,"$1,590 - 2,350",1590 ,"('1 ', ' bedroom')",$0,Available Now
+1731,Bell Capitol Hill,https://www.apartments.com/bell-capitol-hill-washington-dc/j32g7t7,773 Sq Ft,773,"$1,705 - 2,465",1705 ,"('1 ', ' bedroom')",$0,Available Now
+1777,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,722 Sq Ft,722,"$1,804 - 3,511",1804 ,"('1 ', ' bedroom')",$0,Available Now
+1779,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,720 Sq Ft,720,"$1,804 - 3,595",1804 ,"('1 ', ' bedroom')",$0,Available Now
+1780,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,720 Sq Ft,720,"$1,804 - 3,511",1804 ,"('1 ', ' bedroom')",$0,Available Now
+1781,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,720 Sq Ft,720,"$1,854 - 3,595",1854 ,"('1 ', ' bedroom')",$0,Available Now
+1782,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,731 Sq Ft,731,"$1,839 - 3,569",1839 ,"('1 ', ' bedroom')",$0,Available Now
+1784,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,723 Sq Ft,723,"$2,210 - 4,250",2210 ,"('1 ', ' bedroom')",$0,Available Now
+1786,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,772 Sq Ft,772,"$2,285 - 4,376",2285 ,"('1 ', ' bedroom')",$0,Available Now
+1792,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,756 Sq Ft,756,"$1,859 - 3,417",1859 ,"('1 ', ' bedroom')",$0,Apr 3
+1793,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,779 Sq Ft,779,"$1,839 - 3,386",1839 ,"('1 ', ' bedroom')",$0,Apr 4
+1795,ORE 82,https://www.apartments.com/ore-82-washington-dc/endrtlp,722 Sq Ft,722,"$1,879 - 3,449",1879 ,"('1 ', ' bedroom')",$0,Apr 11
+1815,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,"979 - 1,000 Sq Ft",9791000,"$2,220 - 2,572",2220 ,"('1 ', ' bedroom')",$0,Available Now
+1816,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,981 Sq Ft,981,"$2,220",2220,"('1 ', ' bedroom')",$0,Available Now
+1817,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,773 - 865 Sq Ft,773865,"$1,943 - 2,040",1943 ,"('1 ', ' bedroom')",$0,Feb 10
+1818,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,865 Sq Ft,865,"$1,950",1950,"('1 ', ' bedroom')",$0,Feb 10
+1819,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,773 Sq Ft,773,"$1,943",1943,"('1 ', ' bedroom')",$0,Feb 18
+1820,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,773 Sq Ft,773,"$1,984",1984,"('1 ', ' bedroom')",$0,Mar 4
+1821,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,773 Sq Ft,773,"$2,005",2005,"('1 ', ' bedroom')",$0,Mar 4
+1822,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,761 - 795 Sq Ft,761795,"$1,980",1980,"('1 ', ' bedroom')",$0,Mar 6
+1823,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,795 Sq Ft,795,"$1,980",1980,"('1 ', ' bedroom')",$0,Mar 6
+1824,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,773 Sq Ft,773,"$2,040",2040,"('1 ', ' bedroom')",$0,Apr 2
+1825,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,707 Sq Ft,707,"$1,820",1820,"('1 ', ' bedroom')",$0,Apr 16
+1827,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,825 Sq Ft,825,"$2,010",2010,"('1 ', ' bedroom')",$0,Apr 16
+1829,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,736 Sq Ft,736,"$1,907",1907,"('1 ', ' bedroom')",$0,Apr 30
+1831,425 Mass,https://www.apartments.com/425-mass-washington-dc/035wmw1,773 Sq Ft,773,"$2,010",2010,"('1 ', ' bedroom')",$0,May 28
+1849,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,709 Sq Ft,709,"$1,780 - 2,970",1780 ,"('1 ', ' bedroom')","$2,230",Available Now
+1850,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,709 Sq Ft,709,"$1,780 - 2,750",1780 ,"('1 ', ' bedroom')",$0,Available Now
+1851,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,805 Sq Ft,805,"$2,015 - 2,985",2015 ,"('1 ', ' bedroom')","$2,475",Available Now
+1852,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,805 Sq Ft,805,"$2,015 - 2,985",2015 ,"('1 ', ' bedroom')",$0,Available Now
+1853,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,709 Sq Ft,709,"$1,850 - 2,970",1850 ,"('1 ', ' bedroom')",$0,Mar 7
+1854,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,701 Sq Ft,701,"$1,870 - 2,970",1870 ,"('1 ', ' bedroom')",$0,Mar 12
+1856,360H Street,https://www.apartments.com/360h-street-washington-dc/7e09fsy,709 Sq Ft,709,"$1,850 - 2,920",1850 ,"('1 ', ' bedroom')",$0,Apr 3
+1865,77 H,https://www.apartments.com/77-h-washington-dc/7qlflyw,725 Sq Ft,725,"$1,810 - 2,415",1810 ,"('1 ', ' bedroom')",$0,Available Now
+1866,77 H,https://www.apartments.com/77-h-washington-dc/7qlflyw,726 Sq Ft,726,"$1,915 - 2,485",1915 ,"('1 ', ' bedroom')",$0,Available Now
+1867,77 H,https://www.apartments.com/77-h-washington-dc/7qlflyw,839 Sq Ft,839,"$2,115 - 3,175",2115 ,"('1 ', ' bedroom')",$0,Available Now
+1868,77 H,https://www.apartments.com/77-h-washington-dc/7qlflyw,948 Sq Ft,948,"$2,155 - 3,215",2155 ,"('1 ', ' bedroom')",$0,Available Now
+1869,77 H,https://www.apartments.com/77-h-washington-dc/7qlflyw,779 Sq Ft,779,"$1,820 - 2,365",1820 ,"('1 ', ' bedroom')",$0,Feb 9
+1870,77 H,https://www.apartments.com/77-h-washington-dc/7qlflyw,727 Sq Ft,727,"$1,810 - 2,060",1810 ,"('1 ', ' bedroom')",$0,Apr 1
+1911,Newseum Residences,https://www.apartments.com/newseum-residences-washington-dc/d8m3p4j,714 Sq Ft,714,"$1,784 - 1,884",1784 ,"('St', ' bedroom')",$0,Available Now
+1912,Newseum Residences,https://www.apartments.com/newseum-residences-washington-dc/d8m3p4j,824 - 835 Sq Ft,824835,"$2,089 - 2,547",2089 ,"('1 ', ' bedroom')",$0,Available Now
+1913,Newseum Residences,https://www.apartments.com/newseum-residences-washington-dc/d8m3p4j,850 - 859 Sq Ft,850859,"$2,277 - 2,787",2277 ,"('1 ', ' bedroom')",$0,Available Now
+1917,The Grays on Pennsylvania,https://www.apartments.com/the-grays-on-pennsylvania-washington-dc/wr62tyk,708 Sq Ft,708,"$1,295 - 1,358",1295 ,"('1 ', ' bedroom')",$0,Available Now
+1918,The Grays on Pennsylvania,https://www.apartments.com/the-grays-on-pennsylvania-washington-dc/wr62tyk,708 Sq Ft,708,"$1,358",1358,"('1 ', ' bedroom')",$0,Available Now
+1919,The Grays on Pennsylvania,https://www.apartments.com/the-grays-on-pennsylvania-washington-dc/wr62tyk,708 Sq Ft,708,"$1,358",1358,"('1 ', ' bedroom')",$0,Mar 7
+1923,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,803 Sq Ft,803,"$2,080 - 2,690",2080 ,"('1 ', ' bedroom')",$0,Available Now
+1924,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,803 Sq Ft,803,"$2,120 - 2,635",2120 ,"('1 ', ' bedroom')",$0,Available Now
+1925,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,803 Sq Ft,803,"$2,140 - 2,655",2140 ,"('1 ', ' bedroom')",$0,Available Now
+1926,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,803 Sq Ft,803,"$2,170 - 2,685",2170 ,"('1 ', ' bedroom')",$0,Available Now
+1927,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,745 Sq Ft,745,"$2,140 - 2,840",2140 ,"('1 ', ' bedroom')",$0,Available Now
+1928,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,745 Sq Ft,745,"$2,200 - 2,710",2200 ,"('1 ', ' bedroom')",$0,Available Now
+1929,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,746 Sq Ft,746,"$2,210 - 2,880",2210 ,"('1 ', ' bedroom')",$0,Available Now
+1930,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,746 Sq Ft,746,"$2,220 - 2,730",2220 ,"('1 ', ' bedroom')",$0,Available Now
+1931,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,710 Sq Ft,710,"$2,220 - 2,730",2220 ,"('1 ', ' bedroom')",$0,Available Now
+1933,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,803 Sq Ft,803,"$2,080 - 2,595",2080 ,"('1 ', ' bedroom')",$0,Feb 20
+1934,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,710 Sq Ft,710,"$2,250 - 2,720",2250 ,"('1 ', ' bedroom')",$0,Mar 3
+1935,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,746 Sq Ft,746,"$2,210 - 2,680",2210 ,"('1 ', ' bedroom')",$0,Mar 22
+1936,The Woodward Building Apartments,https://www.apartments.com/the-woodward-building-apartments-washington-dc/df31r2j,745 Sq Ft,745,"$2,140 - 2,600",2140 ,"('1 ', ' bedroom')",$0,Apr 1
+1951,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$1,855 - 2,850",1855 ,"('1 ', ' bedroom')",$0,Available Now
+1952,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$1,855 - 2,375",1855 ,"('1 ', ' bedroom')",$0,Available Now
+1953,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,973 Sq Ft,973,"$2,285 - 2,805",2285 ,"('1 ', ' bedroom')",$0,Available Now
+1955,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,095 - 2,615",2095 ,"('1 ', ' bedroom')",$0,Feb 12
+1956,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,135 - 2,655",2135 ,"('1 ', ' bedroom')",$0,Feb 15
+1957,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,035 - 2,555",2035 ,"('1 ', ' bedroom')",$0,Feb 19
+1958,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,721 Sq Ft,721,"$1,960 - 2,480",1960 ,"('1 ', ' bedroom')",$0,Feb 20
+1960,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,025 - 2,715",2025 ,"('1 ', ' bedroom')",$0,Mar 1
+1961,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,115 - 2,805",2115 ,"('1 ', ' bedroom')",$0,Mar 4
+1962,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,723 Sq Ft,723,"$1,880 - 2,785",1880 ,"('1 ', ' bedroom')",$0,Mar 4
+1963,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,723 Sq Ft,723,"$1,880 - 2,570",1880 ,"('1 ', ' bedroom')",$0,Mar 4
+1964,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,045 - 2,735",2045 ,"('1 ', ' bedroom')",$0,Mar 5
+1965,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,105 - 2,795",2105 ,"('1 ', ' bedroom')",$0,Mar 5
+1966,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$1,955 - 2,645",1955 ,"('1 ', ' bedroom')",$0,Mar 11
+1967,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,115 - 2,805",2115 ,"('1 ', ' bedroom')",$0,Mar 12
+1968,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$1,965 - 2,655",1965 ,"('1 ', ' bedroom')",$0,Mar 19
+1969,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,786 Sq Ft,786,"$2,040 - 2,845",2040 ,"('1 ', ' bedroom')",$0,Mar 19
+1970,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,786 Sq Ft,786,"$2,040 - 2,730",2040 ,"('1 ', ' bedroom')",$0,Mar 19
+1971,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,155 - 2,845",2155 ,"('1 ', ' bedroom')",$0,Mar 21
+1972,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,772 Sq Ft,772,"$1,985 - 2,695",1985 ,"('1 ', ' bedroom')",$0,Mar 21
+1973,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,772 Sq Ft,772,"$1,985 - 2,675",1985 ,"('1 ', ' bedroom')",$0,Mar 21
+1974,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,772 Sq Ft,772,"$2,005 - 2,695",2005 ,"('1 ', ' bedroom')",$0,Mar 26
+1975,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,876 Sq Ft,876,"$2,005 - 2,695",2005 ,"('1 ', ' bedroom')",$0,Mar 26
+1977,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,812 Sq Ft,812,"$2,105 - 2,850",2105 ,"('1 ', ' bedroom')",$0,Mar 31
+1978,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,753 Sq Ft,753,"$1,960 - 2,705",1960 ,"('1 ', ' bedroom')",$0,Apr 1
+1980,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,815 Sq Ft,815,"$2,290 - 3,035",2290 ,"('1 ', ' bedroom')",$0,Apr 22
+1982,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,723 Sq Ft,723,"$2,010 - 2,785",2010 ,"('1 ', ' bedroom')",$0,Apr 28
+1983,Meridian at Gallery Place,https://www.apartments.com/meridian-at-gallery-place-washington-dc/l4ymxkd,786 Sq Ft,786,"$2,070 - 2,845",2070 ,"('1 ', ' bedroom')",$0,May 10
+2017,1500 Mass,https://www.apartments.com/1500-mass-washington-dc/9rbl2l6,729 Sq Ft,729,"$2,047",2047,"('1 ', ' bedroom')",$0,Mar 9
+2021,The Lurgan Apartments,https://www.apartments.com/the-lurgan-apartments-washington-dc/nfgqrkn,706 Sq Ft,706,"$2,094",2094,"('St', ' bedroom')",$0,Available Now
+2023,Zen Apollo,https://www.apartments.com/zen-apollo-washington-dc/rssmk53,757 Sq Ft,757,"$2,100",2100,"('1 ', ' bedroom')",$0,Available Now
+2025,Zen Apollo,https://www.apartments.com/zen-apollo-washington-dc/rssmk53,710 Sq Ft,710,"$1,489",1489,"('1 ', ' bedroom')",$0,Feb 28
+2031,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,704 Sq Ft,704,"$1,925 - 3,015",1925 ,"('1 ', ' bedroom')",$0,Feb 7
+2033,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,767 - 794 Sq Ft,767794,"$2,155 - 3,260",2155 ,"('1 ', ' bedroom')",$0,Available Now
+2034,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,767 - 794 Sq Ft,767794,"$2,155 - 3,245",2155 ,"('1 ', ' bedroom')",$0,Available Now
+2035,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,767 - 794 Sq Ft,767794,"$2,170 - 3,260",2170 ,"('1 ', ' bedroom')",$0,Available Now
+2036,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,839 - 840 Sq Ft,839840,"$2,185 - 3,395",2185 ,"('1 ', ' bedroom')",$0,Available Now
+2037,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,839 - 840 Sq Ft,839840,"$2,200 - 3,290",2200 ,"('1 ', ' bedroom')",$0,Available Now
+2038,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,820 - 877 Sq Ft,820877,"$2,220 - 3,485",2220 ,"('1 ', ' bedroom')",$0,Available Now
+2039,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,820 - 877 Sq Ft,820877,"$2,220 - 3,310",2220 ,"('1 ', ' bedroom')",$0,Available Now
+2040,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,766 Sq Ft,766,"$1,955 - 3,045",1955 ,"('1 ', ' bedroom')",$0,Feb 26
+2042,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,740 - 792 Sq Ft,740792,"$2,185 - 3,275",2185 ,"('1 ', ' bedroom')",$0,Feb 28
+2044,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,742 Sq Ft,742,"$2,060 - 3,220",2060 ,"('1 ', ' bedroom')",$0,Mar 7
+2046,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,776 Sq Ft,776,"$1,960 - 3,120",1960 ,"('1 ', ' bedroom')",$0,Mar 19
+2048,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,744 Sq Ft,744,"$1,835 - 2,995",1835 ,"('1 ', ' bedroom')",$0,Mar 20
+2050,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,839 - 840 Sq Ft,839840,"$2,185 - 3,345",2185 ,"('1 ', ' bedroom')",$0,Mar 27
+2051,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,742 Sq Ft,742,"$1,840 - 3,000",1840 ,"('1 ', ' bedroom')",$0,Mar 28
+2053,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,709 Sq Ft,709,"$1,885 - 3,045",1885 ,"('1 ', ' bedroom')",$0,Mar 28
+2055,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,820 - 877 Sq Ft,820877,"$2,295 - 3,455",2295 ,"('1 ', ' bedroom')",$0,Mar 30
+2056,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,815 Sq Ft,815,"$2,275 - 3,465",2275 ,"('1 ', ' bedroom')",$0,Apr 2
+2057,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,815 Sq Ft,815,"$2,275 - 3,435",2275 ,"('1 ', ' bedroom')",$0,Apr 2
+2058,Meridian at Mt Vernon Triangle,https://www.apartments.com/meridian-at-mt-vernon-triangle-washington-dc/rxvb5x3,827 Sq Ft,827,"$2,235 - 2,695",2235 ,"('1 ', ' bedroom')",$0,Apr 26
+2089,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,732 Sq Ft,732,"$1,896",1896,"('1 ', ' bedroom')",$100,Available Now
+2091,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,743 Sq Ft,743,"$2,073",2073,"('1 ', ' bedroom')",$100,Available Now
+2093,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,905 Sq Ft,905,"$2,149 - 2,404",2149 ,"('1 ', ' bedroom')",$100,Available Now
+2094,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,905 Sq Ft,905,"$2,149",2149,"('1 ', ' bedroom')",$100,Available Now
+2095,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,750 Sq Ft,750,"$2,198 - 2,316",2198 ,"('1 ', ' bedroom')",$100,Available Now
+2096,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,750 Sq Ft,750,"$2,223",2223,"('1 ', ' bedroom')",$100,Available Now
+2097,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,750 Sq Ft,750,"$2,238",2238,"('1 ', ' bedroom')",$100,Available Now
+2098,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,750 Sq Ft,750,"$2,198",2198,"('1 ', ' bedroom')",$100,Mar 20
+2099,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,762 Sq Ft,762,"$2,118 - 2,288",2118 ,"('1 ', ' bedroom')",$100,Mar 26
+2100,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,762 Sq Ft,762,"$2,176",2176,"('1 ', ' bedroom')",$100,Mar 26
+2101,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,762 Sq Ft,762,"$2,118",2118,"('1 ', ' bedroom')",$100,Mar 31
+2102,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,762 Sq Ft,762,"$2,288",2288,"('1 ', ' bedroom')",$100,Apr 23
+2103,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,750 Sq Ft,750,"$2,216",2216,"('1 ', ' bedroom')",$100,Apr 30
+2104,Andover House,https://www.apartments.com/andover-house-washington-dc/p2mmlnr,750 Sq Ft,750,"$2,253",2253,"('1 ', ' bedroom')",$100,Sep 25
+2121,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,713 Sq Ft,713,"$1,980",1980,"('1 ', ' bedroom')",$100,Available Now
+2122,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,731 Sq Ft,731,"$2,241",2241,"('1 ', ' bedroom')",$100,Available Now
+2123,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,713 Sq Ft,713,"$2,249",2249,"('1 ', ' bedroom')",$100,Available Now
+2124,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,705 Sq Ft,705,"$2,089",2089,"('1 ', ' bedroom')",$100,Available Now
+2125,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,710 Sq Ft,710,"$2,159",2159,"('1 ', ' bedroom')",$100,Available Now
+2126,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,711 Sq Ft,711,"$2,165",2165,"('1 ', ' bedroom')",$100,Available Now
+2127,1301 Thomas Circle,https://www.apartments.com/1301-thomas-circle-washington-dc/q81qevx,731 Sq Ft,731,"$2,251",2251,"('1 ', ' bedroom')",$100,Feb 11
+2147,RESA,https://www.apartments.com/resa-washington-dc/z91hllw,729 Sq Ft,729,"$2,197 - 2,482",2197 ,"('1 ', ' bedroom')",$0,Available Now
+2148,RESA,https://www.apartments.com/resa-washington-dc/z91hllw,714 Sq Ft,714,"$2,226 - 2,459",2226 ,"('1 ', ' bedroom')",$0,Available Now
+2149,RESA,https://www.apartments.com/resa-washington-dc/z91hllw,717 Sq Ft,717,"$2,116 - 2,286",2116 ,"('1 ', ' bedroom')",$0,Mar 7
+2150,RESA,https://www.apartments.com/resa-washington-dc/z91hllw,703 Sq Ft,703,"$2,068 - 2,073",2068 ,"('1 ', ' bedroom')",$0,Apr 11
+2187,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,577 - 1,671",1577 ,"('1 ', ' bedroom')",$0,Available Now
+2188,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,577",1577,"('1 ', ' bedroom')",$0,Available Now
+2189,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,671",1671,"('1 ', ' bedroom')",$0,Available Now
+2190,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,627",1627,"('1 ', ' bedroom')",$0,Feb 7
+2192,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,637",1637,"('1 ', ' bedroom')",$0,Available Now
+2194,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,665",1665,"('1 ', ' bedroom')",$0,Available Now
+2196,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,"1,150 Sq Ft",1150,"$2,263 - 2,420",2263 ,"('2 ', ' bedroom')",$0,Available Now
+2197,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,"1,150 Sq Ft",1150,"$2,263",2263,"('2 ', ' bedroom')",$0,Available Now
+2198,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,832",1832,"('1 ', ' bedroom')",$0,Feb 17
+2200,Cleveland House,https://www.apartments.com/cleveland-house-washington-dc/9x7shb5,800 Sq Ft,800,"$1,787",1787,"('1 ', ' bedroom')",$0,May 7
+2217,Gelmarc Towers,https://www.apartments.com/gelmarc-towers-washington-dc/v3rclbe,735 - 814 Sq Ft,735814,"$1,875 - 2,195",1875 ,"('1 ', ' bedroom')",$0,Available Now
+2218,Gelmarc Towers,https://www.apartments.com/gelmarc-towers-washington-dc/v3rclbe,735 - 788 Sq Ft,735788,"$1,895 - 1,995",1895 ,"('1 ', ' bedroom')",$0,Available Now
+2261,Yale West,https://www.apartments.com/yale-west-washington-dc/l10gqce,715 Sq Ft,715,"$1,989 - 3,115",1989 ,"('1 ', ' bedroom')",$0,Available Now
+2262,Yale West,https://www.apartments.com/yale-west-washington-dc/l10gqce,824 Sq Ft,824,"$2,118 - 2,780",2118 ,"('1 ', ' bedroom')",$0,Available Now
+2263,Yale West,https://www.apartments.com/yale-west-washington-dc/l10gqce,751 Sq Ft,751,"$2,145 - 2,854",2145 ,"('1 ', ' bedroom')",$0,Available Now
+2264,Yale West,https://www.apartments.com/yale-west-washington-dc/l10gqce,728 Sq Ft,728,"$2,260 - 2,984",2260 ,"('1 ', ' bedroom')",$0,Available Now
+2269,The York and Potomac Park,https://www.apartments.com/the-york-and-potomac-park-washington-dc/0n413l2,782 Sq Ft,782,"$2,247",2247,"('1 ', ' bedroom')",$500,Available Now
+2271,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,719 Sq Ft,719,"$1,792 - 3,862",1792 ,"('1 ', ' bedroom')",$0,Available Now
+2272,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,753 Sq Ft,753,"$1,826 - 3,303",1826 ,"('1 ', ' bedroom')",$0,Available Now
+2273,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,703 Sq Ft,703,"$1,829 - 3,294",1829 ,"('1 ', ' bedroom')",$0,Available Now
+2274,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,719 Sq Ft,719,"$1,865 - 3,475",1865 ,"('1 ', ' bedroom')",$0,Available Now
+2275,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,712 Sq Ft,712,"$1,870 - 4,114",1870 ,"('1 ', ' bedroom')",$0,Available Now
+2276,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,738 Sq Ft,738,"$1,898 - 3,365",1898 ,"('1 ', ' bedroom')",$0,Available Now
+2277,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,720 Sq Ft,720,"$1,977 - 4,107",1977 ,"('1 ', ' bedroom')",$0,Available Now
+2278,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,975 Sq Ft,975,"$2,244 - 3,882",2244 ,"('2 ', ' bedroom')",$0,Available Now
+2279,Flats 130 at Constitution Square,https://www.apartments.com/flats-130-at-constitution-square-washington-dc/vf9fjvf,792 Sq Ft,792,"$1,903 - 3,903",1903 ,"('1 ', ' bedroom')",$0,Mar 21
+2289,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,731 Sq Ft,731,"$2,059 - 2,099",2059 ,"('1 ', ' bedroom')",$0,Available Now
+2290,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,731 Sq Ft,731,"$2,059",2059,"('1 ', ' bedroom')",$0,Available Now
+2291,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,814 Sq Ft,814,"$2,221 - 2,261",2221 ,"('1 ', ' bedroom')",$0,Feb 27
+2292,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,814 Sq Ft,814,"$2,261",2261,"('1 ', ' bedroom')",$0,Feb 27
+2293,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,814 Sq Ft,814,"$2,221",2221,"('1 ', ' bedroom')",$0,Mar 15
+2294,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,720 Sq Ft,720,"$2,059",2059,"('1 ', ' bedroom')",$0,Mar 19
+2296,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,826 Sq Ft,826,"$2,142",2142,"('1 ', ' bedroom')",$0,Mar 19
+2298,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,731 Sq Ft,731,"$2,099",2099,"('1 ', ' bedroom')",$0,Mar 26
+2299,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,836 Sq Ft,836,"$2,181",2181,"('1 ', ' bedroom')",$0,Apr 2
+2301,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,832 Sq Ft,832,"$2,246 - 2,296",2246 ,"('1 ', ' bedroom')",$0,Apr 3
+2302,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,832 Sq Ft,832,"$2,296",2296,"('1 ', ' bedroom')",$0,Apr 3
+2303,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,819 Sq Ft,819,"$2,228",2228,"('1 ', ' bedroom')",$0,Apr 10
+2305,Camden NoMa,https://www.apartments.com/camden-noma-washington-dc/mz4q2nj,832 Sq Ft,832,"$2,246",2246,"('1 ', ' bedroom')",$0,Apr 24
+2345,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,875 Sq Ft,875,"$2,070 - 2,199",2070 ,"('1 ', ' bedroom')",$0,Available Now
+2346,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,875 Sq Ft,875,"$2,070",2070,"('1 ', ' bedroom')",$0,Available Now
+2347,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,875 Sq Ft,875,"$2,199",2199,"('1 ', ' bedroom')",$0,Available Now
+2350,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,850 Sq Ft,850,"$2,149 - 2,199",2149 ,"('1 ', ' bedroom')",$0,Available Now
+2351,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,850 Sq Ft,850,"$2,149",2149,"('1 ', ' bedroom')",$0,Available Now
+2353,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,850 Sq Ft,850,"$2,199",2199,"('1 ', ' bedroom')",$0,Available Now
+2354,The Cambridge Apartments,https://www.apartments.com/the-cambridge-apartments-washington-dc/gepb96x,850 Sq Ft,850,"$2,149",2149,"('1 ', ' bedroom')",$0,Feb 28
+2371,Avalon at Foxhall,https://www.apartments.com/avalon-at-foxhall-washington-dc/1g9csl4,845 Sq Ft,845,"$1,535 - 1,815",1535 ,"('1 ', ' bedroom')","$1,000",Available Now
+2373,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,809 - 2,365",1809 ,"('1 ', ' bedroom')",$0,Available Now
+2374,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,809 - 2,265",1809 ,"('1 ', ' bedroom')",$0,Available Now
+2375,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,909 - 2,365",1909 ,"('1 ', ' bedroom')",$0,Available Now
+2376,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,700 Sq Ft,700,"$1,862 - 2,441",1862 ,"('1 ', ' bedroom')",$0,Available Now
+2377,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,700 Sq Ft,700,"$1,862 - 2,304",1862 ,"('1 ', ' bedroom')",$0,Available Now
+2378,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,909 - 2,523",1909 ,"('1 ', ' bedroom')",$0,Available Now
+2379,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,909 - 2,373",1909 ,"('1 ', ' bedroom')",$0,Available Now
+2380,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,959 - 2,423",1959 ,"('1 ', ' bedroom')",$0,Available Now
+2381,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,984 - 2,448",1984 ,"('1 ', ' bedroom')",$0,Available Now
+2382,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$2,059 - 2,523",2059 ,"('1 ', ' bedroom')",$0,Available Now
+2384,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,910 - 2,366",1910 ,"('1 ', ' bedroom')",$0,Available Now
+2390,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,051 - 2,780",2051 ,"('1 ', ' bedroom')",$0,Available Now
+2391,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,051 - 2,501",2051 ,"('1 ', ' bedroom')",$0,Available Now
+2392,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,096 - 2,546",2096 ,"('1 ', ' bedroom')",$0,Available Now
+2393,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,109 - 2,568",2109 ,"('1 ', ' bedroom')",$0,Available Now
+2394,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,126 - 2,576",2126 ,"('1 ', ' bedroom')",$0,Available Now
+2395,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,149 - 2,608",2149 ,"('1 ', ' bedroom')",$0,Available Now
+2396,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,159 - 2,618",2159 ,"('1 ', ' bedroom')",$0,Available Now
+2397,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,730 Sq Ft,730,"$2,179 - 2,638",2179 ,"('1 ', ' bedroom')",$0,Available Now
+2398,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$2,071 - 2,567",2071 ,"('1 ', ' bedroom')",$0,Available Now
+2399,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$2,071 - 2,542",2071 ,"('1 ', ' bedroom')",$0,Available Now
+2401,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$2,096 - 2,567",2096 ,"('1 ', ' bedroom')",$0,Available Now
+2403,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,768 Sq Ft,768,"$2,103 - 2,666",2103 ,"('1 ', ' bedroom')",$0,Available Now
+2404,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,768 Sq Ft,768,"$2,103 - 2,556",2103 ,"('1 ', ' bedroom')",$0,Available Now
+2405,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,768 Sq Ft,768,"$2,118 - 2,571",2118 ,"('1 ', ' bedroom')",$0,Available Now
+2406,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$1,909 - 2,365",1909 ,"('1 ', ' bedroom')",$0,Feb 10
+2407,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,768 Sq Ft,768,"$2,213 - 2,666",2213 ,"('1 ', ' bedroom')",$0,Feb 10
+2408,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$2,059 - 2,523",2059 ,"('1 ', ' bedroom')",$0,Feb 26
+2409,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,700 Sq Ft,700,"$2,027 - 2,441",2027 ,"('1 ', ' bedroom')",$0,Mar 10
+2410,Vaughan Place,https://www.apartments.com/vaughan-place-washington-dc/t665fwc,800 Sq Ft,800,"$2,058 - 2,503",2058 ,"('1 ', ' bedroom')",$0,Mar 10
+2449,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,750",1750,"('1 ', ' bedroom')",$0,Available Now
+2451,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,799 - 1,899",1799 ,"('1 ', ' bedroom')",$0,Available Now
+2452,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,799",1799,"('1 ', ' bedroom')",$0,Available Now
+2455,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,899",1899,"('1 ', ' bedroom')",$0,Available Now
+2458,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,885 - 1,999",1885 ,"('1 ', ' bedroom')",$0,Available Now
+2459,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,899",1899,"('1 ', ' bedroom')",$0,Available Now
+2460,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,999",1999,"('1 ', ' bedroom')",$0,Available Now
+2462,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,799",1799,"('1 ', ' bedroom')",$0,Feb 10
+2463,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,899",1899,"('1 ', ' bedroom')",$0,Feb 10
+2464,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,885",1885,"('1 ', ' bedroom')",$0,Feb 10
+2465,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,975",1975,"('1 ', ' bedroom')",$0,Feb 10
+2466,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,999",1999,"('1 ', ' bedroom')",$0,Feb 10
+2467,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,650",1650,"('1 ', ' bedroom')",$0,Feb 15
+2470,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,799",1799,"('1 ', ' bedroom')",$0,Feb 15
+2471,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,885",1885,"('1 ', ' bedroom')",$0,Feb 15
+2473,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,955",1955,"('1 ', ' bedroom')",$0,Feb 15
+2474,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,999",1999,"('1 ', ' bedroom')",$0,Feb 15
+2475,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,700 Sq Ft,700,"$1,799",1799,"('1 ', ' bedroom')",$0,Feb 19
+2476,The Berkshire,https://www.apartments.com/the-berkshire-washington-dc/7vsyfxy,800 Sq Ft,800,"$1,950",1950,"('1 ', ' bedroom')",$0,Apr 14
+2505,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,824 Sq Ft,824,"$1,555 - 3,953",1555 ,"('St', ' bedroom')",$0,Available Now
+2507,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,504 - 4,364",1504 ,"('2 ', ' bedroom')",$0,Available Now
+2508,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,504 - 4,250",1504 ,"('2 ', ' bedroom')",$0,Available Now
+2509,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,517 - 4,295",1517 ,"('2 ', ' bedroom')",$0,Available Now
+2510,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,646 - 4,343",1646 ,"('2 ', ' bedroom')",$0,Available Now
+2511,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,735 - 3,900",1735 ,"('2 ', ' bedroom')",$0,Available Now
+2512,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,735 - 4,364",1735 ,"('2 ', ' bedroom')",$0,Feb 25
+2513,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,735 - 4,287",1735 ,"('2 ', ' bedroom')",$0,Mar 6
+2514,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,910 Sq Ft,910,"$2,030 - 4,947",2030 ,"('2 ', ' bedroom')",$0,Apr 5
+2516,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,735 - 4,287",1735 ,"('2 ', ' bedroom')",$0,Apr 11
+2517,Park Georgetown,https://www.apartments.com/park-georgetown-arlington-va/5531ckm,766 Sq Ft,766,"$1,735 - 4,287",1735 ,"('2 ', ' bedroom')",$0,Apr 19
+2531,Adams View Apartments,https://www.apartments.com/adams-view-apartments-washington-dc/51hcvmn,720 Sq Ft,720,"$1,995 - 2,195",1995 ,"('1 ', ' bedroom')",$500,Available Now
+2533,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,748 Sq Ft,748,"$1,471",1471,"('1 ', ' bedroom')",$500,Available Now
+2534,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,802 Sq Ft,802,"$1,516",1516,"('1 ', ' bedroom')",$500,Available Now
+2535,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,739 Sq Ft,739,"$1,516",1516,"('1 ', ' bedroom')",$500,Available Now
+2536,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,842 Sq Ft,842,"$1,516",1516,"('1 ', ' bedroom')",$500,Available Now
+2537,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,737 - 851 Sq Ft,737851,"$1,523 - 1,793",1523 ,"('1 ', ' bedroom')",$500,Available Now
+2538,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,770 Sq Ft,770,"$1,523",1523,"('1 ', ' bedroom')",$500,Available Now
+2539,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,771 Sq Ft,771,"$1,523",1523,"('1 ', ' bedroom')",$500,Available Now
+2540,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,774 Sq Ft,774,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2542,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,769 Sq Ft,769,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2543,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,775 Sq Ft,775,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2544,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,843 Sq Ft,843,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2545,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,757 Sq Ft,757,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2546,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,798 Sq Ft,798,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2548,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,793 Sq Ft,793,"$1,568",1568,"('1 ', ' bedroom')",$500,Available Now
+2549,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,781 Sq Ft,781,"$1,583",1583,"('1 ', ' bedroom')",$500,Available Now
+2550,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,785 Sq Ft,785,"$1,583",1583,"('1 ', ' bedroom')",$500,Available Now
+2551,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,744 Sq Ft,744,"$1,583",1583,"('1 ', ' bedroom')",$500,Feb 7
+2552,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,796 Sq Ft,796,"$1,593",1593,"('1 ', ' bedroom')",$500,Available Now
+2553,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,806 Sq Ft,806,"$1,593",1593,"('1 ', ' bedroom')",$500,Available Now
+2554,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,851 Sq Ft,851,"$1,593",1593,"('1 ', ' bedroom')",$500,Available Now
+2555,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,796 Sq Ft,796,"$1,608",1608,"('1 ', ' bedroom')",$500,Available Now
+2556,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,758 Sq Ft,758,"$1,648",1648,"('1 ', ' bedroom')",$500,Available Now
+2557,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,769 Sq Ft,769,"$1,668",1668,"('1 ', ' bedroom')",$500,Available Now
+2558,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,783 Sq Ft,783,"$1,793",1793,"('1 ', ' bedroom')",$500,Available Now
+2559,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,770 Sq Ft,770,"$1,738",1738,"('1 ', ' bedroom')",$500,Available Now
+2561,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,953 - 998 Sq Ft,953998,"$1,777 - 1,932",1777 ,"('1 ', ' bedroom')",$500,Available Now
+2562,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,998 Sq Ft,998,"$1,932",1932,"('1 ', ' bedroom')",$500,Available Now
+2563,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,"943 - 1,020 Sq Ft",9431020,"$2,165 - 2,290",2165 ,"('2 ', ' bedroom')",$500,Available Now
+2564,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,"1,020 Sq Ft",1020,"$2,165",2165,"('2 ', ' bedroom')",$500,Available Now
+2565,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,"1,004 Sq Ft",1004,"$2,290",2290,"('2 ', ' bedroom')",$500,Available Now
+2566,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,774 Sq Ft,774,"$1,683",1683,"('1 ', ' bedroom')",$500,Feb 8
+2567,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,759 Sq Ft,759,"$1,523",1523,"('1 ', ' bedroom')",$500,Feb 9
+2568,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,811 Sq Ft,811,"$1,568",1568,"('1 ', ' bedroom')",$500,Feb 9
+2569,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,768 Sq Ft,768,"$1,538",1538,"('1 ', ' bedroom')",$500,Feb 10
+2570,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,798 Sq Ft,798,"$1,568",1568,"('1 ', ' bedroom')",$500,Feb 10
+2571,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,789 Sq Ft,789,"$1,568",1568,"('1 ', ' bedroom')",$500,Feb 10
+2572,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,769 Sq Ft,769,"$1,583",1583,"('1 ', ' bedroom')",$500,Feb 10
+2573,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,953 Sq Ft,953,"$1,777",1777,"('1 ', ' bedroom')",$500,Feb 10
+2574,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,781 Sq Ft,781,"$1,568",1568,"('1 ', ' bedroom')",$500,Feb 11
+2575,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,717 Sq Ft,717,"$1,516",1516,"('1 ', ' bedroom')",$500,Feb 12
+2576,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,789 Sq Ft,789,"$1,583",1583,"('1 ', ' bedroom')",$500,Feb 12
+2577,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,835 Sq Ft,835,"$1,608",1608,"('1 ', ' bedroom')",$500,Feb 12
+2578,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,992 Sq Ft,992,"$1,847",1847,"('1 ', ' bedroom')",$500,Feb 20
+2579,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,998 Sq Ft,998,"$1,847",1847,"('1 ', ' bedroom')",$500,Feb 20
+2580,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,750 Sq Ft,750,"$1,516",1516,"('1 ', ' bedroom')",$500,Feb 21
+2581,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,770 Sq Ft,770,"$1,516",1516,"('1 ', ' bedroom')",$500,Feb 22
+2582,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,763 Sq Ft,763,"$1,516",1516,"('1 ', ' bedroom')",$500,Feb 23
+2583,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,722 Sq Ft,722,"$1,766",1766,"('1 ', ' bedroom')",$500,Feb 24
+2584,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,943 Sq Ft,943,"$2,199",2199,"('2 ', ' bedroom')",$500,Feb 25
+2585,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,759 Sq Ft,759,"$1,471",1471,"('1 ', ' bedroom')",$500,Feb 26
+2586,Park Crest,https://www.apartments.com/park-crest-washington-dc/2cjm3n8,759 Sq Ft,759,"$1,471",1471,"('1 ', ' bedroom')",$500,Mar 10
+2641,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,767 Sq Ft,767,"$2,040 - 2,155",2040 ,"('1 ', ' bedroom')",$0,Available Now
+2642,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,767 Sq Ft,767,"$2,040",2040,"('1 ', ' bedroom')",$0,Available Now
+2643,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,767 Sq Ft,767,"$2,240 - 2,315",2240 ,"('1 ', ' bedroom')",$0,Available Now
+2644,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,767 Sq Ft,767,"$2,240",2240,"('1 ', ' bedroom')",$0,Available Now
+2645,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,717 Sq Ft,717,"$1,997 - 2,089",1997 ,"('1 ', ' bedroom')",$0,Feb 12
+2646,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,717 Sq Ft,717,"$2,014",2014,"('1 ', ' bedroom')",$0,Feb 12
+2647,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,792 Sq Ft,792,"$1,979 - 2,064",1979 ,"('1 ', ' bedroom')",$0,Feb 18
+2648,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,792 Sq Ft,792,"$1,989",1989,"('1 ', ' bedroom')",$0,Feb 18
+2649,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,767 Sq Ft,767,"$2,080",2080,"('1 ', ' bedroom')",$0,Mar 6
+2650,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,717 Sq Ft,717,"$1,997",1997,"('1 ', ' bedroom')",$0,Mar 11
+2651,Wisconsin Place,https://www.apartments.com/wisconsin-place-chevy-chase-md/5bjh7bp,792 Sq Ft,792,"$1,979",1979,"('1 ', ' bedroom')",$0,Mar 12
+2663,eaves Tunlaw Gardens,https://www.apartments.com/eaves-tunlaw-gardens-washington-dc/7tmf28w,800 Sq Ft,800,"$1,374 - 1,493",1374 ,"('1 ', ' bedroom')",$0,Available Now
+2664,eaves Tunlaw Gardens,https://www.apartments.com/eaves-tunlaw-gardens-washington-dc/7tmf28w,783 Sq Ft,783,"$1,970",1970,"('2 ', ' bedroom')",$0,Available Now
+2665,eaves Tunlaw Gardens,https://www.apartments.com/eaves-tunlaw-gardens-washington-dc/7tmf28w,799 Sq Ft,799,"$2,018",2018,"('2 ', ' bedroom')",$0,Available Now
+2669,The Palisade Apartments,https://www.apartments.com/the-palisade-apartments-washington-dc/f8s2ykt,750 Sq Ft,750,"$1,500",1500,"('1 ', ' bedroom')","$1,550",Available Now
+2670,The Palisade Apartments,https://www.apartments.com/the-palisade-apartments-washington-dc/f8s2ykt,"1,000 Sq Ft",1000,"$1,995",1995,"('2 ', ' bedroom')","$2,100",Available Now
+2675,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,910 - 950 Sq Ft,910950,"$1,581 - 2,599",1581 ,"('1 ', ' bedroom')",$0,Available Now
+2676,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,950 Sq Ft,950,"$1,656 - 2,388",1656 ,"('1 ', ' bedroom')",$0,Available Now
+2677,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,893 Sq Ft,893,"$1,825 - 2,669",1825 ,"('1 ', ' bedroom')",$0,Available Now
+2679,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,357 - 1,389 Sq Ft",13571389,"$2,248 - 3,917",2248 ,"('2 ', ' bedroom')",$0,Available Now
+2680,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,389 Sq Ft",1389,"$2,263 - 3,917",2263 ,"('2 ', ' bedroom')",$0,Available Now
+2681,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,133 Sq Ft",1133,"$2,248 - 4,131",2248 ,"('2 ', ' bedroom')",$0,Available Now
+2682,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,133 Sq Ft",1133,"$2,248 - 3,897",2248 ,"('2 ', ' bedroom')",$0,Available Now
+2684,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,133 Sq Ft",1133,"$2,288 - 4,110",2288 ,"('2 ', ' bedroom')",$0,Available Now
+2685,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"982 - 1,023 Sq Ft",9821023,"$1,546 - 2,599",1546 ,"('1 ', ' bedroom')",$0,Feb 11
+2686,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,982 Sq Ft,982,"$1,576 - 2,245",1576 ,"('1 ', ' bedroom')",$0,Feb 11
+2687,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,950 Sq Ft,950,"$1,656 - 2,374",1656 ,"('1 ', ' bedroom')",$0,Feb 19
+2688,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,640 - 2,488",1640 ,"('1 ', ' bedroom')",$0,Feb 23
+2689,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,725 - 2,488",1725 ,"('1 ', ' bedroom')",$0,Feb 23
+2690,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,023 Sq Ft",1023,"$1,656 - 2,599",1656 ,"('1 ', ' bedroom')",$0,Mar 3
+2691,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,000 Sq Ft",1000,"$1,616 - 2,545",1616 ,"('1 ', ' bedroom')",$0,Mar 6
+2692,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,950 Sq Ft,950,"$1,641 - 2,580",1641 ,"('1 ', ' bedroom')",$0,Mar 10
+2693,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,982 Sq Ft,982,"$1,616 - 2,545",1616 ,"('1 ', ' bedroom')",$0,Mar 13
+2694,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,680 - 2,450",1680 ,"('1 ', ' bedroom')",$0,Mar 13
+2695,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,950 Sq Ft,950,"$1,581 - 2,497",1581 ,"('1 ', ' bedroom')",$0,Mar 21
+2696,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,950 Sq Ft,950,"$1,656 - 2,599",1656 ,"('1 ', ' bedroom')",$0,Mar 21
+2697,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,660 - 2,429",1660 ,"('1 ', ' bedroom')",$0,Mar 25
+2698,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,000 Sq Ft",1000,"$1,601 - 2,522",1601 ,"('1 ', ' bedroom')",$0,Apr 6
+2699,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,933 Sq Ft,933,"$1,586 - 2,503",1586 ,"('1 ', ' bedroom')",$0,Apr 10
+2700,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,680 - 2,374",1680 ,"('1 ', ' bedroom')",$0,Apr 19
+2701,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,700 - 2,399",1700 ,"('1 ', ' bedroom')",$0,Apr 19
+2702,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,660 - 2,354",1660 ,"('1 ', ' bedroom')",$0,Apr 22
+2703,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,923 Sq Ft,923,"$1,690",1690,"('1 ', ' bedroom')",$0,Apr 22
+2704,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,923 Sq Ft,923,Call for Rent,all f,"('1 ', ' bedroom')",$0,Apr 22
+2705,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,023 Sq Ft",1023,"$1,546 - 2,448",1546 ,"('1 ', ' bedroom')",$0,Apr 23
+2706,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,023 Sq Ft",1023,"$1,621 - 2,551",1621 ,"('1 ', ' bedroom')",$0,Apr 23
+2707,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,791 Sq Ft,791,"$1,640 - 2,329",1640 ,"('1 ', ' bedroom')",$0,Apr 23
+2708,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,"1,357 Sq Ft",1357,"$2,248 - 3,163",2248 ,"('2 ', ' bedroom')",$0,Apr 23
+2709,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,910 Sq Ft,910,"$1,611 - 2,539",1611 ,"('1 ', ' bedroom')",$0,Apr 30
+2710,Highlands of Chevy Chase,https://www.apartments.com/highlands-of-chevy-chase-chevy-chase-md/h1xzg03,893 Sq Ft,893,"$1,870 - 2,601",1870 ,"('1 ', ' bedroom')",$0,May 1
+3071,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,795 Sq Ft,795,"$2,197 - 2,781",2197 ,"('1 ', ' bedroom')",$0,Available Now
+3072,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,795 Sq Ft,795,"$2,197 - 2,752",2197 ,"('1 ', ' bedroom')",$0,Available Now
+3073,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,795 Sq Ft,795,"$2,207 - 2,763",2207 ,"('1 ', ' bedroom')",$0,Feb 7
+3074,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,888 Sq Ft,888,Call for Rent,all f,"('2 ', ' bedroom')",$0,Feb 7
+3075,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,713 Sq Ft,713,"$1,992 - 2,499",1992 ,"('1 ', ' bedroom')",$0,Feb 11
+3077,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,795 Sq Ft,795,Call for Rent,all f,"('1 ', ' bedroom')",$0,Feb 19
+3078,The Belgard,https://www.apartments.com/the-belgard-washington-dc/n17wlyp,795 Sq Ft,795,"$2,227 - 2,781",2227 ,"('1 ', ' bedroom')",$0,Mar 17
+3241,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,851 Sq Ft,851,"$2,040 - 4,375",2040 ,"('1 ', ' bedroom')",$0,Available Now
+3243,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,797 Sq Ft,797,"$2,075 - 4,572",2075 ,"('1 ', ' bedroom')",$0,Available Now
+3244,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,797 Sq Ft,797,"$2,075 - 4,437",2075 ,"('1 ', ' bedroom')",$0,Available Now
+3245,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,797 Sq Ft,797,"$2,105 - 4,494",2105 ,"('1 ', ' bedroom')",$0,Available Now
+3246,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,797 Sq Ft,797,"$2,111 - 4,494",2111 ,"('1 ', ' bedroom')",$0,Available Now
+3247,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,894 Sq Ft,894,"$2,135 - 5,562",2135 ,"('1 ', ' bedroom')",$0,Available Now
+3248,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,894 Sq Ft,894,"$2,146 - 4,557",2146 ,"('1 ', ' bedroom')",$0,Available Now
+3249,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,936 Sq Ft,936,"$2,281 - 4,801",2281 ,"('1 ', ' bedroom')",$0,Available Now
+3251,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,851 Sq Ft,851,"$2,088 - 5,282",2088 ,"('1 ', ' bedroom')",$0,Mar 1
+3253,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,936 Sq Ft,936,"$2,118 - 5,441",2118 ,"('1 ', ' bedroom')",$0,Mar 7
+3254,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,936 Sq Ft,936,"$2,118 - 5,352",2118 ,"('1 ', ' bedroom')",$0,Mar 7
+3255,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,936 Sq Ft,936,"$2,163 - 5,441",2163 ,"('1 ', ' bedroom')",$0,Mar 11
+3256,The Loree Grand at Union Place,https://www.apartments.com/the-loree-grand-at-union-place-washington-dc/jkd2t36,894 Sq Ft,894,"$2,135 - 5,562",2135 ,"('1 ', ' bedroom')",$0,Apr 14
+3273,Washington Apartments,https://www.apartments.com/washington-apartments-washington-dc/8vh3132,760 - 800 Sq Ft,760800,"$2,100 - 2,300",2100 ,"('2 ', ' bedroom')",$300,Available Now
+3321,The Edison at Union Market,https://www.apartments.com/the-edison-at-union-market-washington-dc/5lj6xpq,982 Sq Ft,982,"$2,100",2100,"('2 ', ' bedroom')",$0,Mar 7
